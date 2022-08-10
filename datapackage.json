@@ -13,8 +13,7 @@
         {
         "title": "Romain Sacchi",
         "email": "r_s@me.com"
-    },
-
+    }
     ],
     "dependencies": {
         "premise": ">=1.2.5"
