@@ -49,10 +49,8 @@ The following coupling is done between IAM and the cobalt scenarios:
 What does this do?
 ------------------
 
-![map electricity markets](assets/map.png)
-
 This external scenario update the ecoinvent global market for cobalt, according
-to the projections descrobed in van der Meide et al., 2022.
+to the projections described in van der Meide et al., 2022.
 
 Cobalt
 ******
