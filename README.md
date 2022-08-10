@@ -24,7 +24,7 @@ van der Meide, M., Harpprecht, C., Northey, S., Yang, Y., & Steubing, B. (2022).
 Data validation 
 ---------------
 
-[![goodtables.io](https://goodtables.io/badge/github/premise-community-scenarios/cobalt-perspective-2050.svg)](https://goodtables.io/github/premise-community-scenarios/cobalt-perspective-2050-switzerland)
+[![goodtables.io](https://goodtables.io//badge/github/premise-community-scenarios/cobalt-perspective-2050.svg)](https://goodtables.io//github/premise-community-scenarios/cobalt-perspective-2050)
 
 Test 
 ----
