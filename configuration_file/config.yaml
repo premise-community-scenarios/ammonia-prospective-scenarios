@@ -59,7 +59,7 @@ production pathways:
     ecoinvent alias:
       name: primary zinc production from concentrate
       reference product: cobalt
-      exists in original database: False
+      exists in original database: True
 
 markets:
 
@@ -76,6 +76,10 @@ markets:
       - zinc
     except regions:
       - World
+
+    replaces:
+      - name: market for cobalt
+        reference product: cobalt
   
 
 
