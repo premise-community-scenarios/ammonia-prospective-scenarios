@@ -73,12 +73,18 @@ def test_scenario_data_file():
             )
 
     if not all(
-            v in get_recursively(config_file, "variable")
-            for v in df["variables"].unique()
+            v in df["variables"].unique()
+            for v in get_recursively(config_file, "variable")
     ):
+        list_unfound_variables = [
+            p
+            for p in get_recursively(config_file, "variable")
+            if p not in df["variables"].unique()
+        ]
+
         raise ValueError(
-            f"One or several variable names in the scenario data file "
-            "cannot be found in the configuration file."
+            "The following variables from the configuration file "
+            f"cannot be found in the scenario file: {list_unfound_variables}"
         )
 
     if not all(
