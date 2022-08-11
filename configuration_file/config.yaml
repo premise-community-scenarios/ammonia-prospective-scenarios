@@ -8,10 +8,43 @@ production pathways:
   copper:
     production volume:
       variable: Production|Cobalt|From copper mining
+
     ecoinvent alias:
       name: copper production, cathode, solvent extraction and electrowinning process
       reference product: cobalt
       exists in original database: False
+
+    efficiency:
+      - variable: Efficiency|Copper|Energy
+        reference year: 2010
+        includes:
+          technosphere:
+            - electricity
+
+      - variable: Efficiency|Copper|Mining and production
+        reference year: 2010
+        includes:
+            technosphere:
+              - blasting
+              - conveyor belt
+              - steel, chromium steel 18/8, hot rolled
+              - mine infrastructure, open cast, non-ferrous metal
+              - ammonia, anhydrous, liquid
+            biosphere:
+              - Transformation, to mineral extraction site
+              - Occupation, mineral extraction site
+
+      - variable: Efficiency|Copper|Diesel
+        reference year: 2010
+        includes:
+            technosphere:
+              - diesel, burned
+
+      - variable: Efficiency|Copper|Tailings
+        reference year: 2010
+        includes:
+            technosphere:
+              - sulfidic tailings
  
   nickel_sulphide:
     production volume:
@@ -21,13 +54,102 @@ production pathways:
       reference product: cobalt
       exists in original database: False
 
-  nickel_laterite:
+    efficiency:
+      - variable: Efficiency|Nickel sulphide|Energy
+        reference year: 2010
+        includes:
+          technosphere:
+            - electricity
+
+      - variable: Efficiency|Nickel sulphide|Mining and production
+        reference year: 2010
+        includes:
+          technosphere:
+            - blasting
+            - conveyor belt
+            - mine infrastructure, open cast, non-ferrous metal
+            - ammonia, anhydrous, liquid
+            - sand
+
+      - variable: Efficiency|Nickel sulphide|Diesel
+        reference year: 2010
+        includes:
+          technosphere:
+            - diesel, burned
+
+      - variable: Efficiency|Nickel sulphide|Tailings
+        reference year: 2010
+        includes:
+          technosphere:
+            - sulfidic tailings
+
+  nickel_laterite 1:
     production volume:
       variable: Production|Cobalt|From nickel laterite mining
+
     ecoinvent alias:
       name: cobalt production from sulphide matte
       reference product: cobalt
       exists in original database: False
+
+    efficiency:
+      - variable: Efficiency|Nickel laterite|Mining and production
+        reference year: 2010
+        includes:
+          technosphere:
+            - ammonia, anhydrous, liquid
+
+  nickel_laterite 2:
+    production volume:
+      variable: Production|Cobalt|From nickel laterite mining
+
+    ecoinvent alias:
+      name: ferronickel production
+      reference product: sulphide matte
+      exists in original database: False
+
+    efficiency:
+      - variable: Efficiency|Nickel laterite|Energy
+        reference year: 2010
+        includes:
+          technosphere:
+            - electricity
+
+      - variable: Efficiency|Nickel laterite|Heat 1
+        reference year: 2010
+        includes:
+          technosphere:
+            - heat, district or industrial, natural gas
+
+      - variable: Efficiency|Nickel laterite|Heat 2
+        reference year: 2010
+        includes:
+          technosphere:
+            - heat, district or industrial, other than natural gas
+
+      - variable: Efficiency|Nickel laterite|Mining and production
+        reference year: 2010
+        includes:
+          technosphere:
+            - mine infrastructure
+            - conveyor belt
+            - ammonia, anhydrous, liquid
+            - blasting
+          biosphere:
+            - Occupation, mineral extraction site
+            - Transformation, to mineral extraction site
+
+      - variable: Efficiency|Nickel laterite|Diesel
+        reference year: 2010
+        includes:
+          technosphere:
+            - diesel, burned
+
+      - variable: Efficiency|Nickel laterite|Tailings
+        reference year: 2010
+        includes:
+          technosphere:
+            - nickel smelter slag
 
   cobalt:
     production volume:
@@ -69,7 +191,7 @@ markets:
     includes:
       - copper
       - nickel_sulphide
-      - nickel_laterite
+      - nickel_laterite 1
       - cobalt
       - recycling_pyro
       - recycling_hydro
