@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Effects of the energy transition on environmental
+  impacts of cobalt supply: A prospective life cycle
+  assessment study on future supply of cobalt.
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: Marc
+    name-particle: van der
+    family-names: Meide
+    email: m.t.van.der.meide@cml.leidenuniv.nl
+    affiliation: >-
+      Faculty of Science - Institute of environmental
+      sciences (CML)
+identifiers:
+  - type: doi
+    value: 10.1111/jiec.13258
+    description: Publication DOI
+repository-code: >-
+  https://github.com/premise-community-scenarios/cobalt-perspective-2050
+abstract: >-
+  Scenario to integrate the future global supply of
+  cobalt into the Python package premise
