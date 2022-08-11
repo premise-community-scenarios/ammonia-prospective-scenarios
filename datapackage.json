@@ -4,7 +4,7 @@
     "title": "A prospective scenario on the future supply of cobalt",
     "description": "Implementation of the scenarios on future cobalt supply from van der Meide et al., 2022.",
     "source":"van der Meide, M., Harpprecht, C., Northey, S., Yang, Y., & Steubing, B. (2022). Effects of the energy transition on environmental impacts of cobalt supply: A prospective life cycle assessment study on future supply of cobalt. Journal of Industrial Ecology, 1– 15. https://doi.org/10.1111/jiec.13258",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "contributors":[
         {
         "title": "Marc van der Meide",
