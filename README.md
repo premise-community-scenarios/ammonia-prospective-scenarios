@@ -1,4 +1,4 @@
-# cobalt-perspective-2050 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/premise-community-scenarios/cobalt-perspective-2050) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6653948.svg)](https://doi.org/10.5281/zenodo.6653948)
+# cobalt-perspective-2050 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/premise-community-scenarios/cobalt-perspective-2050) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6984300.svg)](https://doi.org/10.5281/zenodo.6984300)
 
 
 Description
