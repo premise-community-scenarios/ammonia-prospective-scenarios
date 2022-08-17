@@ -10,8 +10,7 @@ message: Please cite this dataset using these metadata.
 type: dataset
 authors:
   - given-names: Marc
-    name-particle: van der
-    family-names: Meide
+    family-names: van der Meide
     email: m.t.van.der.meide@cml.leidenuniv.nl
     affiliation: >-
       Faculty of Science - Institute of environmental
