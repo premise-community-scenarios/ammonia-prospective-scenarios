@@ -82,6 +82,16 @@
                         "format": "default"
                     },
                     {
+                        "name": "2010",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2015",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
                         "name": "2020",
                         "type": "number",
                         "format": "default"
