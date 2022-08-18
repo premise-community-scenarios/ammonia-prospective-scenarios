@@ -22,16 +22,20 @@
         "version": "3.8",
         "system model": "cut-off"
     },
-    "IAM scenario available": [
-        {
-            "model": "image",
-            "pathway": "SSP2-Base"
-        },
-        {
-            "model": "image",
-            "pathway": "SSP2-RCP26"
-        }
-    ],
+    "scenarios": {
+        "Business As Usual": [
+            {
+                "model": "image",
+                "pathway": "SSP2-Base"
+            }
+        ],
+        "Sustainable development": [
+            {
+                "model": "image",
+                "pathway": "SSP2-RCP26"
+            }
+        ]
+    },
     "licenses": [{
     "id": "CC0-1.0",
     "title": "CC0 1.0",
@@ -58,6 +62,11 @@
                         "format": "default"
                     },
                     {
+                        "name": "scenario",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
                         "name": "region",
                         "type": "string",
                         "format": "default"
@@ -70,16 +79,6 @@
                     {
                         "name": "unit",
                         "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "2010",
-                        "type": "number",
-                        "format": "default"
-                    },
-                    {
-                        "name": "2015",
-                        "type": "number",
                         "format": "default"
                     },
                     {

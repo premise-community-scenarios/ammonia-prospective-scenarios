@@ -10,7 +10,7 @@ production pathways:
       variable: Production|Cobalt|From copper mining
 
     ecoinvent alias:
-      name: copper production, cathode, solvent extraction and electrowinning process
+      name: cobalt metal production, from copper mining, via electrolysis, economic allocation
       reference product: cobalt
       exists in original database: False
 

@@ -1,43 +1,43 @@
-﻿model,pathway,region,variables,unit,2010,2015,2020,2025,2030,2035,2040,2045,2050,2060,2070,2080,2090,2100
-image,SSP2-Base,GLO,Efficiency|Copper|Energy,%,1.000,0.971,0.944,0.918,0.892,0.867,0.841,0.816,0.791,0.791,0.791,0.791,0.791,0.791
-image,SSP2-Base,GLO,Efficiency|Copper|Mining and production,%,1.000,0.944,0.894,0.849,0.806,0.765,0.727,0.690,0.655,0.655,0.655,0.655,0.655,0.655
-image,SSP2-Base,GLO,Efficiency|Copper|Diesel,%,1.000,0.951,0.908,0.870,0.835,0.802,0.771,0.742,0.714,0.714,0.714,0.714,0.714,0.714
-image,SSP2-Base,GLO,Efficiency|Copper|Tailings,%,1.000,0.941,0.895,0.859,0.828,0.801,0.777,0.757,0.738,0.738,0.738,0.738,0.738,0.738
-image,SSP2-Base,GLO,Efficiency|Nickel sulphide|Energy,%,1.000,0.994,0.987,0.979,0.970,0.960,0.948,0.934,0.918,0.918,0.918,0.918,0.918,0.918
-image,SSP2-Base,GLO,Efficiency|Nickel sulphide|Mining and production,%,1.000,0.967,0.932,0.896,0.858,0.817,0.773,0.726,0.676,0.676,0.676,0.676,0.676,0.676
-image,SSP2-Base,GLO,Efficiency|Nickel sulphide|Diesel,%,1.000,0.977,0.956,0.936,0.916,0.896,0.877,0.857,0.838,0.838,0.838,0.838,0.838,0.838
-image,SSP2-Base,GLO,Efficiency|Nickel sulphide|Tailings,%,1.000,0.946,0.902,0.864,0.830,0.800,0.772,0.747,0.723,0.723,0.723,0.723,0.723,0.723
-image,SSP2-Base,GLO,Efficiency|Nickel laterite|Energy,%,1.000,0.989,0.977,0.965,0.952,0.937,0.922,0.905,0.886,0.886,0.886,0.886,0.886,0.886
-image,SSP2-Base,GLO,Efficiency|Nickel laterite|Heat 1,%,1.000,0.961,0.923,0.885,0.847,0.807,0.767,0.726,0.684,0.684,0.684,0.684,0.684,0.684
-image,SSP2-Base,GLO,Efficiency|Nickel laterite|Heat 2,%,1.000,0.963,0.927,0.891,0.855,0.817,0.779,0.739,0.698,0.698,0.698,0.698,0.698,0.698
-image,SSP2-Base,GLO,Efficiency|Nickel laterite|Mining and production,%,1.000,0.960,0.920,0.882,0.843,0.803,0.762,0.720,0.678,0.678,0.678,0.678,0.678,0.678
-image,SSP2-Base,GLO,Efficiency|Nickel laterite|Diesel,%,1.000,0.954,0.912,0.872,0.833,0.795,0.757,0.720,0.684,0.684,0.684,0.684,0.684,0.684
-image,SSP2-Base,GLO,Efficiency|Nickel laterite|Tailings,%,1.000,0.946,0.902,0.864,0.830,0.800,0.772,0.747,0.723,0.723,0.723,0.723,0.723,0.723
-image,SSP2-Base,GLO,Production|Cobalt|From copper mining,%,0.281,0.592,0.641,0.508,0.386,0.348,0.379,0.395,0.383,0.383,0.383,0.383,0.383,0.383
-image,SSP2-Base,GLO,Production|Cobalt|From nickel sulphide mining,%,0.057,0.070,0.064,0.051,0.041,0.036,0.038,0.039,0.037,0.037,0.037,0.037,0.037,0.037
-image,SSP2-Base,GLO,Production|Cobalt|From nickel laterite mining,%,0.191,0.182,0.149,0.116,0.096,0.085,0.086,0.088,0.084,0.084,0.084,0.084,0.084,0.084
-image,SSP2-Base,GLO,Production|Cobalt|From battery recycling (pyro),%,0.220,0.063,0.058,0.148,0.224,0.250,0.234,0.224,0.233,0.233,0.233,0.233,0.233,0.233
-image,SSP2-Base,GLO,Production|Cobalt|From battery recycling (hydro),%,0.220,0.063,0.058,0.148,0.224,0.250,0.234,0.224,0.233,0.233,0.233,0.233,0.233,0.233
-image,SSP2-Base,GLO,Production|Cobalt|From cobalt mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
-image,SSP2-Base,GLO,Production|Cobalt|From zinc mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
-image,SSP2-RCP26,GLO,Efficiency|Copper|Energy,%,1.000,0.970,0.939,0.908,0.876,0.845,0.815,0.784,0.754,0.754,0.754,0.754,0.754,0.754
-image,SSP2-RCP26,GLO,Efficiency|Copper|Mining and production,%,1.000,0.942,0.886,0.831,0.780,0.732,0.688,0.646,0.606,0.606,0.606,0.606,0.606,0.606
-image,SSP2-RCP26,GLO,Efficiency|Copper|Diesel,%,1.000,0.949,0.901,0.856,0.814,0.776,0.740,0.707,0.676,0.676,0.676,0.676,0.676,0.676
-image,SSP2-RCP26,GLO,Efficiency|Copper|Tailings,%,1.000,0.939,0.888,0.846,0.810,0.781,0.756,0.734,0.714,0.714,0.714,0.714,0.714,0.714
-image,SSP2-RCP26,GLO,Efficiency|Nickel sulphide|Energy,%,1.000,0.993,0.985,0.975,0.964,0.950,0.934,0.914,0.891,0.891,0.891,0.891,0.891,0.891
-image,SSP2-RCP26,GLO,Efficiency|Nickel sulphide|Mining and production,%,1.000,0.965,0.925,0.880,0.832,0.779,0.724,0.665,0.603,0.603,0.603,0.603,0.603,0.603
-image,SSP2-RCP26,GLO,Efficiency|Nickel sulphide|Diesel,%,1.000,0.976,0.952,0.927,0.903,0.880,0.856,0.834,0.811,0.811,0.811,0.811,0.811,0.811
-image,SSP2-RCP26,GLO,Efficiency|Nickel sulphide|Tailings,%,1.000,0.944,0.894,0.849,0.810,0.776,0.746,0.718,0.694,0.694,0.694,0.694,0.694,0.694
-image,SSP2-RCP26,GLO,Efficiency|Nickel laterite|Energy,%,1.000,0.988,0.975,0.959,0.943,0.924,0.904,0.881,0.856,0.856,0.856,0.856,0.856,0.856
-image,SSP2-RCP26,GLO,Efficiency|Nickel laterite|Heat 1,%,1.000,0.959,0.915,0.869,0.822,0.773,0.725,0.675,0.624,0.624,0.624,0.624,0.624,0.624
-image,SSP2-RCP26,GLO,Efficiency|Nickel laterite|Heat 2,%,1.000,0.961,0.920,0.876,0.831,0.784,0.737,0.689,0.639,0.639,0.639,0.639,0.639,0.639
-image,SSP2-RCP26,GLO,Efficiency|Nickel laterite|Mining and production,%,1.000,0.958,0.913,0.865,0.817,0.768,0.718,0.668,0.617,0.617,0.617,0.617,0.617,0.617
-image,SSP2-RCP26,GLO,Efficiency|Nickel laterite|Diesel,%,1.000,0.952,0.904,0.855,0.808,0.763,0.719,0.675,0.633,0.633,0.633,0.633,0.633,0.633
-image,SSP2-RCP26,GLO,Efficiency|Nickel laterite|Tailings,%,1.000,0.944,0.894,0.849,0.810,0.776,0.746,0.718,0.694,0.694,0.694,0.694,0.694,0.694
-image,SSP2-RCP26,GLO,Production|Cobalt|From copper mining,%,0.282,0.613,0.689,0.565,0.463,0.411,0.412,0.445,0.475,0.475,0.475,0.475,0.475,0.475
-image,SSP2-RCP26,GLO,Production|Cobalt|From nickel sulphide mining,%,0.055,0.066,0.057,0.047,0.039,0.037,0.035,0.038,0.040,0.040,0.040,0.040,0.040,0.040
-image,SSP2-RCP26,GLO,Production|Cobalt|From nickel laterite mining,%,0.186,0.165,0.118,0.093,0.079,0.076,0.071,0.074,0.078,0.078,0.078,0.078,0.078,0.078
-image,SSP2-RCP26,GLO,Production|Cobalt|From battery recycling (pyro),%,0.223,0.063,0.053,0.132,0.194,0.223,0.226,0.207,0.189,0.189,0.189,0.189,0.189,0.189
-image,SSP2-RCP26,GLO,Production|Cobalt|From battery recycling (hydro),%,0.223,0.063,0.053,0.132,0.194,0.223,0.226,0.207,0.189,0.189,0.189,0.189,0.189,0.189
-image,SSP2-RCP26,GLO,Production|Cobalt|From cobalt mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
-image,SSP2-RCP26,GLO,Production|Cobalt|From zinc mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
+﻿model,pathway,region,scenario,variables,unit,2010,2015,2020,2025,2030,2035,2040,2045,2050,2060,2070,2080,2090,2100
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Copper|Energy,%,1,0.971,0.944,0.918,0.892,0.867,0.841,0.816,0.791,0.791,0.791,0.791,0.791,0.791
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Copper|Mining and production,%,1,0.944,0.894,0.849,0.806,0.765,0.727,0.69,0.655,0.655,0.655,0.655,0.655,0.655
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Copper|Diesel,%,1,0.951,0.908,0.87,0.835,0.802,0.771,0.742,0.714,0.714,0.714,0.714,0.714,0.714
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Copper|Tailings,%,1,0.941,0.895,0.859,0.828,0.801,0.777,0.757,0.738,0.738,0.738,0.738,0.738,0.738
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel sulphide|Energy,%,1,0.994,0.987,0.979,0.97,0.96,0.948,0.934,0.918,0.918,0.918,0.918,0.918,0.918
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel sulphide|Mining and production,%,1,0.967,0.932,0.896,0.858,0.817,0.773,0.726,0.676,0.676,0.676,0.676,0.676,0.676
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel sulphide|Diesel,%,1,0.977,0.956,0.936,0.916,0.896,0.877,0.857,0.838,0.838,0.838,0.838,0.838,0.838
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel sulphide|Tailings,%,1,0.946,0.902,0.864,0.83,0.8,0.772,0.747,0.723,0.723,0.723,0.723,0.723,0.723
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel laterite|Energy,%,1,0.989,0.977,0.965,0.952,0.937,0.922,0.905,0.886,0.886,0.886,0.886,0.886,0.886
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel laterite|Heat 1,%,1,0.961,0.923,0.885,0.847,0.807,0.767,0.726,0.684,0.684,0.684,0.684,0.684,0.684
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel laterite|Heat 2,%,1,0.963,0.927,0.891,0.855,0.817,0.779,0.739,0.698,0.698,0.698,0.698,0.698,0.698
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel laterite|Mining and production,%,1,0.96,0.92,0.882,0.843,0.803,0.762,0.72,0.678,0.678,0.678,0.678,0.678,0.678
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel laterite|Diesel,%,1,0.954,0.912,0.872,0.833,0.795,0.757,0.72,0.684,0.684,0.684,0.684,0.684,0.684
+image,SSP2-Base,GLO,Business As Usual,Efficiency|Nickel laterite|Tailings,%,1,0.946,0.902,0.864,0.83,0.8,0.772,0.747,0.723,0.723,0.723,0.723,0.723,0.723
+image,SSP2-Base,GLO,Business As Usual,Production|Cobalt|From copper mining,%,0.281,0.592,0.641,0.508,0.386,0.348,0.379,0.395,0.383,0.383,0.383,0.383,0.383,0.383
+image,SSP2-Base,GLO,Business As Usual,Production|Cobalt|From nickel sulphide mining,%,0.057,0.07,0.064,0.051,0.041,0.036,0.038,0.039,0.037,0.037,0.037,0.037,0.037,0.037
+image,SSP2-Base,GLO,Business As Usual,Production|Cobalt|From nickel laterite mining,%,0.191,0.182,0.149,0.116,0.096,0.085,0.086,0.088,0.084,0.084,0.084,0.084,0.084,0.084
+image,SSP2-Base,GLO,Business As Usual,Production|Cobalt|From battery recycling (pyro),%,0.22,0.063,0.058,0.148,0.224,0.25,0.234,0.224,0.233,0.233,0.233,0.233,0.233,0.233
+image,SSP2-Base,GLO,Business As Usual,Production|Cobalt|From battery recycling (hydro),%,0.22,0.063,0.058,0.148,0.224,0.25,0.234,0.224,0.233,0.233,0.233,0.233,0.233,0.233
+image,SSP2-Base,GLO,Business As Usual,Production|Cobalt|From cobalt mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
+image,SSP2-Base,GLO,Business As Usual,Production|Cobalt|From zinc mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Copper|Energy,%,1,0.97,0.939,0.908,0.876,0.845,0.815,0.784,0.754,0.754,0.754,0.754,0.754,0.754
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Copper|Mining and production,%,1,0.942,0.886,0.831,0.78,0.732,0.688,0.646,0.606,0.606,0.606,0.606,0.606,0.606
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Copper|Diesel,%,1,0.949,0.901,0.856,0.814,0.776,0.74,0.707,0.676,0.676,0.676,0.676,0.676,0.676
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Copper|Tailings,%,1,0.939,0.888,0.846,0.81,0.781,0.756,0.734,0.714,0.714,0.714,0.714,0.714,0.714
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel sulphide|Energy,%,1,0.993,0.985,0.975,0.964,0.95,0.934,0.914,0.891,0.891,0.891,0.891,0.891,0.891
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel sulphide|Mining and production,%,1,0.965,0.925,0.88,0.832,0.779,0.724,0.665,0.603,0.603,0.603,0.603,0.603,0.603
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel sulphide|Diesel,%,1,0.976,0.952,0.927,0.903,0.88,0.856,0.834,0.811,0.811,0.811,0.811,0.811,0.811
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel sulphide|Tailings,%,1,0.944,0.894,0.849,0.81,0.776,0.746,0.718,0.694,0.694,0.694,0.694,0.694,0.694
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel laterite|Energy,%,1,0.988,0.975,0.959,0.943,0.924,0.904,0.881,0.856,0.856,0.856,0.856,0.856,0.856
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel laterite|Heat 1,%,1,0.959,0.915,0.869,0.822,0.773,0.725,0.675,0.624,0.624,0.624,0.624,0.624,0.624
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel laterite|Heat 2,%,1,0.961,0.92,0.876,0.831,0.784,0.737,0.689,0.639,0.639,0.639,0.639,0.639,0.639
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel laterite|Mining and production,%,1,0.958,0.913,0.865,0.817,0.768,0.718,0.668,0.617,0.617,0.617,0.617,0.617,0.617
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel laterite|Diesel,%,1,0.952,0.904,0.855,0.808,0.763,0.719,0.675,0.633,0.633,0.633,0.633,0.633,0.633
+image,SSP2-RCP26,GLO,Sustainable development,Efficiency|Nickel laterite|Tailings,%,1,0.944,0.894,0.849,0.81,0.776,0.746,0.718,0.694,0.694,0.694,0.694,0.694,0.694
+image,SSP2-RCP26,GLO,Sustainable development,Production|Cobalt|From copper mining,%,0.282,0.613,0.689,0.565,0.463,0.411,0.412,0.445,0.475,0.475,0.475,0.475,0.475,0.475
+image,SSP2-RCP26,GLO,Sustainable development,Production|Cobalt|From nickel sulphide mining,%,0.055,0.066,0.057,0.047,0.039,0.037,0.035,0.038,0.04,0.04,0.04,0.04,0.04,0.04
+image,SSP2-RCP26,GLO,Sustainable development,Production|Cobalt|From nickel laterite mining,%,0.186,0.165,0.118,0.093,0.079,0.076,0.071,0.074,0.078,0.078,0.078,0.078,0.078,0.078
+image,SSP2-RCP26,GLO,Sustainable development,Production|Cobalt|From battery recycling (pyro),%,0.223,0.063,0.053,0.132,0.194,0.223,0.226,0.207,0.189,0.189,0.189,0.189,0.189,0.189
+image,SSP2-RCP26,GLO,Sustainable development,Production|Cobalt|From battery recycling (hydro),%,0.223,0.063,0.053,0.132,0.194,0.223,0.226,0.207,0.189,0.189,0.189,0.189,0.189,0.189
+image,SSP2-RCP26,GLO,Sustainable development,Production|Cobalt|From cobalt mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
+image,SSP2-RCP26,GLO,Sustainable development,Production|Cobalt|From zinc mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
