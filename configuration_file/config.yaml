@@ -185,7 +185,7 @@ production pathways:
 
 markets:
 
-  - name: market for cobalt (van der Meide)
+  - name: market for cobalt (CP2050)
     reference product: cobalt
     unit: kilogram
     includes:
