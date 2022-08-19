@@ -1,8 +1,8 @@
 ﻿model,pathway,scenario,region,variables,unit,2010,2015,2020,2025,2030,2035,2040,2045,2050,2060,2070,2080,2090,2100
-image,SSP2-Base,Business As Usual,CN,Efficiency|Copper|Energy,%,1,0.971,0.944,0.918,0.892,0.867,0.841,0.816,0.791,0.791,0.791,0.791,0.791,0.791
-image,SSP2-Base,Business As Usual,CN,Efficiency|Copper|Mining and production,%,1,0.944,0.894,0.849,0.806,0.765,0.727,0.69,0.655,0.655,0.655,0.655,0.655,0.655
-image,SSP2-Base,Business As Usual,CN,Efficiency|Copper|Diesel,%,1,0.951,0.908,0.87,0.835,0.802,0.771,0.742,0.714,0.714,0.714,0.714,0.714,0.714
-image,SSP2-Base,Business As Usual,CN,Efficiency|Copper|Tailings,%,1,0.941,0.895,0.859,0.828,0.801,0.777,0.757,0.738,0.738,0.738,0.738,0.738,0.738
+image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Energy,%,1,0.971,0.944,0.918,0.892,0.867,0.841,0.816,0.791,0.791,0.791,0.791,0.791,0.791
+image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Mining and production,%,1,0.944,0.894,0.849,0.806,0.765,0.727,0.69,0.655,0.655,0.655,0.655,0.655,0.655
+image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Diesel,%,1,0.951,0.908,0.87,0.835,0.802,0.771,0.742,0.714,0.714,0.714,0.714,0.714,0.714
+image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Tailings,%,1,0.941,0.895,0.859,0.828,0.801,0.777,0.757,0.738,0.738,0.738,0.738,0.738,0.738
 image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel sulphide|Energy,%,1,0.994,0.987,0.979,0.97,0.96,0.948,0.934,0.918,0.918,0.918,0.918,0.918,0.918
 image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel sulphide|Mining and production,%,1,0.967,0.932,0.896,0.858,0.817,0.773,0.726,0.676,0.676,0.676,0.676,0.676,0.676
 image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel sulphide|Diesel,%,1,0.977,0.956,0.936,0.916,0.896,0.877,0.857,0.838,0.838,0.838,0.838,0.838,0.838
@@ -20,10 +20,10 @@ image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From battery recycling (
 image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From battery recycling (hydro),%,0.22,0.063,0.058,0.148,0.224,0.25,0.234,0.224,0.233,0.233,0.233,0.233,0.233,0.233
 image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From cobalt mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
 image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From zinc mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
-image,SSP2-RCP26,Sustainable development,CN,Efficiency|Copper|Energy,%,1,0.97,0.939,0.908,0.876,0.845,0.815,0.784,0.754,0.754,0.754,0.754,0.754,0.754
-image,SSP2-RCP26,Sustainable development,CN,Efficiency|Copper|Mining and production,%,1,0.942,0.886,0.831,0.78,0.732,0.688,0.646,0.606,0.606,0.606,0.606,0.606,0.606
-image,SSP2-RCP26,Sustainable development,CN,Efficiency|Copper|Diesel,%,1,0.949,0.901,0.856,0.814,0.776,0.74,0.707,0.676,0.676,0.676,0.676,0.676,0.676
-image,SSP2-RCP26,Sustainable development,CN,Efficiency|Copper|Tailings,%,1,0.939,0.888,0.846,0.81,0.781,0.756,0.734,0.714,0.714,0.714,0.714,0.714,0.714
+image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Energy,%,1,0.97,0.939,0.908,0.876,0.845,0.815,0.784,0.754,0.754,0.754,0.754,0.754,0.754
+image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Mining and production,%,1,0.942,0.886,0.831,0.78,0.732,0.688,0.646,0.606,0.606,0.606,0.606,0.606,0.606
+image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Diesel,%,1,0.949,0.901,0.856,0.814,0.776,0.74,0.707,0.676,0.676,0.676,0.676,0.676,0.676
+image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Tailings,%,1,0.939,0.888,0.846,0.81,0.781,0.756,0.734,0.714,0.714,0.714,0.714,0.714,0.714
 image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel sulphide|Energy,%,1,0.993,0.985,0.975,0.964,0.95,0.934,0.914,0.891,0.891,0.891,0.891,0.891,0.891
 image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel sulphide|Mining and production,%,1,0.965,0.925,0.88,0.832,0.779,0.724,0.665,0.603,0.603,0.603,0.603,0.603,0.603
 image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel sulphide|Diesel,%,1,0.976,0.952,0.927,0.903,0.88,0.856,0.834,0.811,0.811,0.811,0.811,0.811,0.811

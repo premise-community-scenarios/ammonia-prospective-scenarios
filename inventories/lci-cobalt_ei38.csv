@@ -1,43 +1,5 @@
 ﻿Database,cobalt_processes_ei38,,,,,,,,,
 ,,,,,,,,,,
-Activity,"copper production, cathode, solvent extraction and electrowinning process",,,,,,,,,
-comment,"Cobalt production from copper, originally created for ecoinvent cutoff v3.6 based on process 'copper production, solvent-extraction electro-winning'. For more information, see https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13258",,,,,,,,,
-location,GLO,,,,,,,,,
-reference product,cobalt,,,,,,,,,
-unit,kilogram,,,,,,,,,
-Exchanges,,,,,,,,,,
-name,amount,database,location,unit,categories,type,uncertainty type,loc,production volume,reference product
-"Copper, in ground",2.38921786,biosphere3,,kilogram,natural resource::in ground,biosphere,0,0.028470093,,
-"Occupation, mineral extraction site",0.013976542,biosphere3,,square meter-year,natural resource::land,biosphere,0,0.000288683,,
-"Transformation, from unspecified",0.000805317,biosphere3,,square meter,natural resource::land,biosphere,0,9.59621E-06,,
-"Transformation, to mineral extraction site",0.0004646,biosphere3,,square meter,natural resource::land,biosphere,0,9.59621E-06,,
-Water,0.042604934,biosphere3,,cubic meter,air,biosphere,0,0.000507683,,
-Water,0.241427959,biosphere3,,cubic meter,water,biosphere,0,0.002876873,,
-"Water, river",0.284032892,biosphere3,,cubic meter,natural resource::in water,biosphere,0,0.003384557,,
-"copper production, cathode, solvent extraction and electrowinning process",1,cobalt_processes_ei38,GLO,kilogram,,production,0,1,,cobalt
-"electricity production, hydro, run-of-river",4.815479183,ei38,RoW,kilowatt hour,,technosphere,0,0.102532153,,"electricity, high voltage"
-"market for ammonia, anhydrous, liquid",0.000167972,ei38,RER,kilogram,,technosphere,0,3.46943E-06,,"ammonia, anhydrous, liquid"
-"market for ammonia, anhydrous, liquid",0.001470657,ei38,RoW,kilogram,,technosphere,0,3.03761E-05,,"ammonia, anhydrous, liquid"
-market for blasting,0.267000147,ei38,GLO,kilogram,,technosphere,0,0.005514836,,blasting
-"market for chemical factory, organics",1.80578E-09,ei38,GLO,unit,,technosphere,0,7.96366E-12,,"chemical factory, organics"
-market for conveyor belt,2.02419E-05,ei38,GLO,meter,,technosphere,0,4.18092E-07,,conveyor belt
-"market for diesel, burned in building machine",2.954588129,ei38,GLO,megajoule,,technosphere,0,0.165445086,,"diesel, burned in building machine"
-"market for mine infrastructure, open cast, non-ferrous metal",1.33018E-08,ei38,GLO,unit,,technosphere,0,2.74746E-10,,"mine infrastructure, open cast, non-ferrous metal"
-"market for steel, chromium steel 18/8, hot rolled",0.184104795,ei38,GLO,kilogram,,technosphere,0,0.003802649,,"steel, chromium steel 18/8, hot rolled"
-"market for sulfidic tailings, from copper mine operation",-59.05372251,ei38,CN,kilogram,,technosphere,0,-1.221467852,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-57.51127454,ei38,PE,kilogram,,technosphere,0,-1.189563841,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-16.4601234,ei38,KZ,kilogram,,technosphere,0,-0.340461375,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-32.83210692,ei38,AU,kilogram,,technosphere,0,-0.679099664,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-24.67916762,ei38,CA,kilogram,,technosphere,0,-0.510464177,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-140.8034652,ei38,CL,kilogram,,technosphere,0,-2.912380437,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-20.25013843,ei38,ID,kilogram,,technosphere,0,-0.418854088,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-27.98441328,ei38,US,kilogram,,technosphere,0,-0.578829915,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-19.4348445,ei38,ZM,kilogram,,technosphere,0,-0.401990539,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-25.78091617,ei38,RU,kilogram,,technosphere,0,-0.533252756,,"sulfidic tailings, from copper mine operation"
-"market for sulfidic tailings, from copper mine operation",-108.4561277,ei38,RoW,kilogram,,technosphere,0,-2.243307748,,"sulfidic tailings, from copper mine operation"
-"market group for electricity, high voltage",1.075301177,ei38,GLO,kilowatt hour,,technosphere,0,0.022895529,,"electricity, high voltage"
-"market group for electricity, medium voltage",2.131901463,ei38,GLO,kilowatt hour,,technosphere,0,0.045392876,,"electricity, medium voltage"
-,,,,,,,,,,
 Activity,"nickel mine operation, sulfidic ore",,,,,,,,,
 comment,"Cobalt production from nickel sulphide, originally created for ecoinvent cutoff v3.6 based on process 'nickel mine operation, sulfidic ore'. For more information, see https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13258",,,,,,,,,
 location,GLO,,,,,,,,,
