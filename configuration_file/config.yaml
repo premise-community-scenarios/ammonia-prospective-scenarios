@@ -5,7 +5,7 @@
 ---
 
 production pathways:
-  copper_electrolysis:
+  copper:
     production volume:
       variable: Production|Cobalt|From copper mining
 
