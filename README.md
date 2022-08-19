@@ -54,9 +54,18 @@ to the projections described in van der Meide et al., 2022.
 Cobalt
 ******
 
-* `market for cobalt (van der Meide)` (GLO)
+The following market is introduced:
 
-This market is relinked to activities that consume cobalt throughout the database.
+* `market for cobalt (CP2050)` (GLO)
+
+It is supplied by six cobalt production pathways:
+* cobalt from cobalt mining
+* cobalt as a co-product from copper mining (ore extraction, processing and electrowinning)
+* cobalt as a co-product from nickel mining
+* cobalt as a co-product from zinc mining
+* cobalt recovered from discarded batteries (hydro- and pyro-metallurgical processes)
+
+This market is relinked to activities that consume metallic cobalt throughout the database, if any.
 
 
 Flow diagram
