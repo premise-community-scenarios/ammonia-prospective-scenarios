@@ -9,7 +9,7 @@ def test_datapackage():
     assert dp.descriptor["profile"] == "data-package"
     assert len(dp.resources) >= 2
 
-    mandatory_keys  = [
+    mandatory_keys = [
         'profile',
         'name',
         'title',
