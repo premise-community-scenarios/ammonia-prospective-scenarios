@@ -47,7 +47,7 @@ ecoinvent 3.8 cut-off
 IAM scenario compatibility
 ---------------------------
 
-The following coupling is done between IAM and the ammonia market scenarios (APS):
+The following coupling is done between IAM scenarios and the ammonia market scenarios (APS):
 
 | IAM scenario     | APS scenario           |
 |------------------|-------------------------|
