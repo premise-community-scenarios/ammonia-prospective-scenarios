@@ -32,7 +32,7 @@ Leiden University and TU Delft.
 Data validation 
 ---------------
 
-[![goodtables.io](https://goodtables.io//badge/github/premise-community-scenarios/ammonia-prospective-scenarios.svg)](https://goodtables.io//github/premise-community-scenarios/ammonia-prospective-scenarios-2050)
+[![goodtables.io](https://goodtables.io//badge/github/premise-community-scenarios/ammonia-prospective-scenarios.svg)](https://goodtables.io//github/premise-community-scenarios/ammonia-prospective-scenarios)
 
 Test 
 ----
@@ -47,7 +47,7 @@ ecoinvent 3.8 cut-off
 IAM scenario compatibility
 ---------------------------
 
-The following coupling is done between IAM and the ammonia market scenarios (APS):
+The following coupling is done between IAM scenarios and the ammonia market scenarios (APS):
 
 | IAM scenario     | APS scenario           |
 |------------------|-------------------------|
