@@ -11,7 +11,11 @@ in the Master thesis study of Johanna Boyce for:
 
 It is meant to be used in `premise` in addition to a global IMAGE scenario, 
 to provide refined projections for the future supply of ammonia for 
-each IMAGE region.
+each IMAGE region. 
+
+Note that projections regarding regional ammonia markets stop at 2050.
+Any `premise` database with a reference year beyond 2050 
+will use projections for 2050.
 
 This data package contains all the files necessary for `premise` to implement
 this scenario and create market- and region specific technology supply shares
@@ -95,6 +99,7 @@ that consume hydrogen throughout the database.
 Flow diagram
 ------------
 
+![diagram ammonia markets](assets/flow_diagram.png)
 
 How to use it?
 --------------
