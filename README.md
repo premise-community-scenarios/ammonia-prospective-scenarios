@@ -32,7 +32,7 @@ Leiden University and TU Delft.
 Data validation 
 ---------------
 
-[![goodtables.io](https://goodtables.io//badge/github/premise-community-scenarios/ammonia-prospective-scenarios.svg)](https://goodtables.io//github/premise-community-scenarios/ammonia-prospective-scenarios-2050)
+[![goodtables.io](https://goodtables.io//badge/github/premise-community-scenarios/ammonia-prospective-scenarios.svg)](https://goodtables.io//github/premise-community-scenarios/ammonia-prospective-scenarios)
 
 Test 
 ----
