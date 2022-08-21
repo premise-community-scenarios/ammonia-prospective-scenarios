@@ -1,4 +1,4 @@
-# ammonia-prospective-scenarios ![GitHub release (latest by date)](https://img.shields.io/github/v/release/premise-community-scenarios/ammonia-prospective-scenarios) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6984300.svg)](https://doi.org/10.5281/zenodo.6984300)
+# ammonia-prospective-scenarios ![GitHub release (latest by date)](https://img.shields.io/github/v/release/premise-community-scenarios/ammonia-prospective-scenarios) [![DOI](https://zenodo.org/badge/527206370.svg)](https://zenodo.org/badge/latestdoi/527206370)
 
 
 Description
