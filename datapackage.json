@@ -23,6 +23,10 @@
             {
                 "model": "image",
                 "pathway": "SSP2-Base"
+            },
+            {
+                "model": "remind",
+                "pathway": "SSP2-Base"
             }
         ],
         "Sustainable development": [
@@ -33,6 +37,14 @@
             {
                 "model": "image",
                 "pathway": "SSP2-RCP19"
+            },
+            {
+                "model": "remind",
+                "pathway": "SSP2-PkBudg1150"
+            },
+            {
+                "model": "remind",
+                "pathway": "SSP2-PkBudg500"
             }
         ]
     },

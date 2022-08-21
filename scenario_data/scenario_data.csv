@@ -233,6 +233,39 @@ image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Coal Gasification,Mt,0.
 image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
 image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
 image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Coal Gasification,Mt,46.139,44.17485417,38.05555489,31.51888331,25.33533245,19.34022248,14.0320125,14.0320125
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Coal Gasification,Mt,0.666,0.555,0.444,0.333,0.222,0.111,0,0
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Coal Gasification,Mt,0.188879394,0.181355051,0.165555152,0.138579697,0.10246202,0.055768788,0,0
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Coal Gasification,Mt,0.222,0.21505,0.19776,0.16653,0.12376,0.06765,0,0
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Coal Gasification,Mt,0.075875,0.077270951,0.073948459,0.064329889,0.049119768,0.027471404,0,0
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Coal Gasification,Mt,0.444905882,0.382399859,0.353509789,0.292183672,0.213034112,0.112674878,0,0
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Coal Gasification,Mt,0.091864706,0.062783263,0.05719411,0.044365365,0.030250389,0.014332537,0,0
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Coal Gasification,Mt,0.25286299,0.19465339,0.163851462,0.124603343,0.083854621,0.041002543,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Coal Gasification,Mt,46.139,50.1294,54.1198,56.8632,59.6066,61.3524,63.0982,63.0982
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Coal Gasification,Mt,0.666,0.6633,0.651,0.6156,0.5736,0.5166,0.4554,0.4554
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Coal Gasification,Mt,0.188879394,0.193814081,0.19693371,0.193984242,0.189786923,0.181392283,0.172203556,0.172203556
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Coal Gasification,Mt,0.222,0.2278,0.231466667,0.228,0.223066667,0.2132,0.2024,0.2024
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Coal Gasification,Mt,0.075875,0.075567399,0.074166104,0.070133108,0.065348198,0.058854392,0.051882095,0.051882095
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Coal Gasification,Mt,0.444905882,0.45652955,0.463877845,0.456930366,0.447043568,0.427269974,0.405625904,0.405625904
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Coal Gasification,Mt,0.091864706,0.094264775,0.09578206,0.094347536,0.092306098,0.088223222,0.083754128,0.083754128
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Coal Gasification,Mt,0.25286299,0.255108492,0.254229817,0.244857289,0.233336891,0.216153923,0.197604128,0.197604128
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Coal Gasification,Mt,46.139,50.46193333,54.78486667,59.1078,63.43073333,67.75366667,72.0766,72.0766
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Coal Gasification,Mt,0.666,0.7284,0.7908,0.8532,0.9156,0.978,1.0404,1.0404
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Coal Gasification,Mt,0.188879394,0.206576202,0.22427301,0.241969818,0.259666626,0.277363434,0.295060242,0.295060242
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Coal Gasification,Mt,0.222,0.2428,0.2636,0.2844,0.3052,0.326,0.3468,0.3468
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Coal Gasification,Mt,0.075875,0.082984009,0.090093018,0.097202027,0.104311036,0.111420045,0.118529054,0.118529054
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Coal Gasification,Mt,0.444905882,0.486590758,0.528275633,0.569960509,0.611645384,0.65333026,0.695015135,0.695015135
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Coal Gasification,Mt,0.091864706,0.100471849,0.109078993,0.117686137,0.12629328,0.134900424,0.143507568,0.143507568
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Coal Gasification,Mt,0.25286299,0.276554658,0.300246325,0.323937993,0.34762966,0.371321328,0.395012995,0.395012995
 image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0.7,1.3,1.8,2.2,2.5,2.6,2.6
 image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
@@ -311,6 +344,39 @@ image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Coal Gasification w/ CC
 image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0.661441667,1.271545987,1.78649541,2.203072387,2.474982767,2.619309,2.619309
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Electrolysis,Mt,0,4,7.7,10.8,13.4,15,15.9,15.9
 image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Electrolysis,Mt,0,1.4,3.2,5.5,8.3,11.4,15.1,15.1
 image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Electrolysis,Mt,0,0,0,0.1,0.1,0.1,0.1,0.1
@@ -389,6 +455,39 @@ image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Electrolysis,Mt,0,0,0,0
 image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Electrolysis,Mt,0,4.015895833,7.720100633,10.84657928,13.37579663,15.02668108,15.9029475,15.9029475
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Electrolysis,Mt,0,1.584931849,3.216507238,4.844439613,6.477287087,8.04354484,9.581193322,9.581193322
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Electrolysis,Mt,0,0.08325,0.1665,0.24975,0.333,0.41625,0.4995,0.4995
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Electrolysis,Mt,0,1.118356145,2.552308586,4.27287399,6.318491246,8.597688131,11.18261465,11.18261465
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Electrolysis,Mt,0,1.960063788,3.920127576,5.880191364,7.840255152,9.800318939,11.76038273,11.76038273
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Electrolysis,Mt,0,1.355466667,3.186133333,5.4656,8.250666667,11.42533333,15.088,15.088
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Electrolysis,Mt,0,0.272396667,0.62624,1.05469,1.567626667,2.14225,2.7968,2.7968
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Electrolysis,Mt,0,0.289766065,0.693266806,1.206185428,1.841991285,2.575444082,3.42890625,3.42890625
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Electrolysis,Mt,0,0.484373155,1.119447666,1.850496588,2.69843208,3.568037803,4.518045467,4.518045467
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Electrolysis,Mt,0,0.079525466,0.181114683,0.280980647,0.383171596,0.453863673,0.511022733,0.511022733
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Electrolysis,Mt,0,0.122353559,0.257480869,0.391610506,0.527086187,0.644325679,0.753730267,0.753730267
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Electrolysis,Mt,0,0.058491982,0.126296121,0.199047343,0.278200672,0.357936011,0.441745419,0.441745419
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Electrolysis,Mt,0,0.03015,0.0651,0.1026,0.1434,0.1845,0.2277,0.2277
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Electrolysis,Mt,0,0.045603313,0.098466855,0.155187394,0.21689934,0.279065051,0.344407111,0.344407111
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Electrolysis,Mt,0,0.120827394,0.26089099,0.411173818,0.574681535,0.739391515,0.912517333,0.912517333
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Electrolysis,Mt,0,0.003434882,0.00741661,0.011688851,0.01633705,0.021019426,0.025941047,0.025941047
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Electrolysis,Mt,0,0.006541243,0.014123879,0.022259754,0.031111585,0.040028504,0.049401032,0.049401032
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Methane Pyrolysis,Mt,0,0.1,0.1,0.2,0.3,0.3,0.4,0.4
@@ -467,6 +566,39 @@ image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Methane Pyrolysis,Mt,0,
 image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Methane Pyrolysis,Mt,0,0.09207073,0.186851043,0.281419729,0.376273939,0.467259866,0.556583844,0.556583844
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Methane Pyrolysis,Mt,0,0.2775,0.555,0.8325,1.11,1.3875,1.665,1.665
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Methane Pyrolysis,Mt,0,0.14508404,0.331110303,0.554318788,0.819696162,1.115375758,1.450717576,1.450717576
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Methane Pyrolysis,Mt,0,0.027802323,0.055604646,0.08340697,0.111209293,0.139011616,0.166813939,0.166813939
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Methane Pyrolysis,Mt,0,0.04301,0.09888,0.16653,0.24752,0.33825,0.4416,0.4416
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0.061816761,0.147896919,0.257319558,0.392958141,0.549428071,0.7315,0.7315
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0.076479972,0.176754895,0.292183672,0.426068223,0.56337439,0.7133756,0.7133756
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Methane Pyrolysis,Mt,0,0.012556653,0.028597055,0.044365365,0.060500778,0.071662685,0.0806878,0.0806878
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Methane Pyrolysis,Mt,0,0.072299831,0.152147786,0.231406208,0.31146002,0.380737901,0.445386067,0.445386067
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Oil,Mt,0.5,0.5,0.4,0.3,0.2,0.1,0,0
 image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Oil,Mt,0.6,0.6,0.6,0.5,0.4,0.2,0,0
 image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
@@ -545,6 +677,39 @@ image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Oil,Mt,0.5365,0.472458333,0.363298853,0.25521363,0.157362313,0.070713793,0,0
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Oil,Mt,0.403769281,0.328824035,0.266930061,0.201014092,0.13438355,0.066751409,0,0
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Oil,Mt,0.31479899,0.302258418,0.275925253,0.230966162,0.170770034,0.09294798,0,0
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Oil,Mt,0.834069697,0.695058081,0.556046465,0.417034848,0.278023232,0.139011616,0,0
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Oil,Mt,0.592,0.589333333,0.554110145,0.475269565,0.358724638,0.198701449,0,0
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Oil,Mt,0.3414375,0.347719278,0.332768067,0.289484503,0.221038954,0.123621316,0,0
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Oil,Mt,0.5365,0.48575,0.419533333,0.3306,0.231033333,0.1189,0,0
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Oil,Mt,0.403769281,0.424066872,0.442036424,0.447856521,0.452076092,0.447420014,0.441745419,0.441745419
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Oil,Mt,0.31479899,0.33062402,0.344633993,0.349171636,0.352461428,0.348831313,0.344407111,0.344407111
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Oil,Mt,0.834069697,0.875998606,0.913118465,0.925141091,0.933857495,0.924239394,0.912517333,0.912517333
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Oil,Mt,0.592,0.6164,0.636533333,0.6384,0.637333333,0.6232,0.6072,0.6072
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Oil,Mt,0.3414375,0.329748649,0.311497635,0.280532432,0.245055743,0.201786486,0.155646284,0.155646284
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Oil,Mt,0.5365,0.586766667,0.637033333,0.6873,0.737566667,0.787833333,0.8381,0.8381
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Oil,Mt,0.403769281,0.441599916,0.479430552,0.517261187,0.555091822,0.592922458,0.630753093,0.630753093
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Oil,Mt,0.31479899,0.34429367,0.37378835,0.40328303,0.43277771,0.462272391,0.491767071,0.491767071
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Oil,Mt,0.834069697,0.912216768,0.990363838,1.068510909,1.14665798,1.224805051,1.302952121,1.302952121
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Oil,Mt,0.592,0.647466667,0.702933333,0.7584,0.813866667,0.869333333,0.9248,0.9248
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Oil,Mt,0.3414375,0.373428041,0.405418581,0.437409122,0.469399662,0.501390203,0.533380743,0.533380743
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming,Mt,7,7.4,7.1,6.6,6.1,5.5,4.9,4.9
 image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming,Mt,14.2,15.7,17,17.8,18.3,18.2,17.7,17.7
 image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming,Mt,3.9,3.5,3.1,2.7,2.3,1.9,1.5,1.5
@@ -623,162 +788,39 @@ image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming,Mt,3,3.
 image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.8,4.1,4.4,4.6,4.6
 image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.8,4.1,4.4,4.6,4.6
 image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming,Mt,1.7,1.8,2,2.1,2.3,2.4,2.6,2.6
-image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
-image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Steam Reforming,Mt,6.9745,7.37035,7.08432764,6.63555438,6.13713022,5.51567588,4.864431,4.864431
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Steam Reforming,Mt,23.82238758,21.59058614,20.19325913,18.55360068,16.87857382,15.05244283,13.2387443,13.2387443
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Steam Reforming,Mt,15.651,14.06925,12.4875,10.90575,9.324,7.74225,6.1605,6.1605
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Steam Reforming,Mt,18.38426101,18.99996412,19.19060131,18.63896924,17.58931347,15.79186177,13.47958414,13.47958414
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Steam Reforming,Mt,15.84732424,13.83165581,11.81598737,9.800318939,7.784650505,5.768982071,3.753313636,3.753313636
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Steam Reforming,Mt,14.208,15.7352,17.03888696,17.8226087,18.29495652,18.18118261,17.712,17.712
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Steam Reforming,Mt,7.178,7.598433333,7.87744,7.88242,7.714373333,7.2611,6.624,6.624
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Steam Reforming,Mt,7.13225,8.067087247,8.873815119,9.392163862,9.725713984,9.724876852,9.5095,9.5095
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Steam Reforming,Mt,14.3852902,13.51146169,14.08147327,13.83002713,13.27912629,12.09377024,10.700634,10.700634
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Steam Reforming,Mt,2.970292157,2.218341958,2.278232059,2.099960624,1.885607589,1.538358975,1.210317,1.210317
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Steam Reforming,Mt,6.899547304,5.767301873,5.430505597,4.859530371,4.25262719,3.52036121,2.809358267,2.809358267
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Steam Reforming,Mt,6.9745,7.67485,8.390666667,8.9262,9.472366667,9.8687,10.2718,10.2718
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Steam Reforming,Mt,23.82238758,25.8388332,27.84829469,29.21019757,30.56729886,31.40888499,32.24741557,32.24741557
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Steam Reforming,Mt,15.651,17.03475,18.4233,19.3914,20.3628,20.9961,21.6315,21.6315
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Steam Reforming,Mt,18.38426101,19.95144949,21.51500787,22.57976582,23.64202807,24.3065659,24.96951556,24.96951556
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Steam Reforming,Mt,15.84732424,17.12728309,18.39281479,19.222376,20.04201855,20.51811455,20.98789867,20.98789867
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Steam Reforming,Mt,14.208,15.4636,16.72346667,17.6016,18.48266667,19.0568,19.6328,19.6328
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Steam Reforming,Mt,7.178,7.8122,8.448533333,8.892,9.336933333,9.6268,9.9176,9.9176
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Steam Reforming,Mt,7.13225,7.793746706,8.462352421,8.941971284,9.42647759,9.757217399,10.0910674,10.0910674
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Steam Reforming,Mt,14.3852902,15.65627808,16.93154134,17.82028426,18.7119665,19.29288265,19.87566927,19.87566927
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Steam Reforming,Mt,2.970292157,3.232727276,3.496045179,3.679553895,3.863669525,3.983617795,4.103952284,4.103952284
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Steam Reforming,Mt,6.899547304,7.509347395,8.121230271,8.547745374,8.97569239,9.25459018,9.534399188,9.534399188
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Steam Reforming,Mt,6.9745,7.627966667,8.281433333,8.9349,9.588366667,10.24183333,10.8953,10.8953
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Steam Reforming,Mt,23.82238758,26.05439507,28.28640255,30.51841004,32.75041752,34.98242501,37.21443249,37.21443249
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming,Mt,15.651,17.1174,18.5838,20.0502,21.5166,22.983,24.4494,24.4494
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Steam Reforming,Mt,18.38426101,20.10675033,21.82923965,23.55172897,25.27421829,26.99670761,28.71919693,28.71919693
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Steam Reforming,Mt,15.84732424,17.33211859,18.81691293,20.30170727,21.78650162,23.27129596,24.7560903,24.7560903
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Steam Reforming,Mt,14.208,15.5392,16.8704,18.2016,19.5328,20.864,22.1952,22.1952
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Steam Reforming,Mt,7.178,7.850533333,8.523066667,9.1956,9.868133333,10.54066667,11.2132,11.2132
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Steam Reforming,Mt,7.13225,7.800496847,8.468743694,9.136990541,9.805237387,10.47348423,11.14173108,11.14173108
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Steam Reforming,Mt,14.3852902,15.73310117,17.08091214,18.42872312,19.77653409,21.12434506,22.47215604,22.47215604
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Steam Reforming,Mt,2.970292157,3.2485898,3.526887444,3.805185087,4.083482731,4.361780374,4.640078018,4.640078018
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Steam Reforming,Mt,6.899547304,7.545991376,8.192435447,8.838879519,9.485323591,10.13176766,10.77821173,10.77821173
 image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.1,0.4,0.7,1.1,1.4,1.7,2.1,2.1
@@ -857,6 +899,261 @@ image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ CCS,
 image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.078917768,0.160158037,0.24121691,0.322520519,0.400508457,0.477071867,0.477071867
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.333,1.665,2.997,4.329,5.661,6.993,8.325,8.325
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,1.015588283,2.317772121,3.880231515,5.737873131,7.807630303,10.15502303,10.15502303
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.166813939,0.333627879,0.500441818,0.667255758,0.834069697,1.000883636,1.000883636
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.47311,1.08768,1.83183,2.72272,3.72075,4.8576,4.8576
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.0379375,0.428853776,0.970573529,1.656494654,2.505108147,3.482000398,4.61759375,4.61759375
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.84127969,1.94430384,3.21402039,4.686750455,6.19711829,7.8471316,7.8471316
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.138123178,0.314567606,0.488019018,0.665508561,0.788289537,0.8875658,0.8875658
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.072246569,0.517221865,1.018219799,1.513040592,2.012510895,2.442580074,2.843618733,2.843618733
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.333,0.3618,0.3906,0.4104,0.4302,0.4428,0.4554,0.4554
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.0379375,0.041218581,0.044499662,0.046755405,0.049011149,0.050446622,0.051882095,0.051882095
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.072246569,0.078494921,0.084743272,0.089039014,0.093334756,0.09606841,0.098802064,0.098802064
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.333,0.3642,0.3954,0.4266,0.4578,0.489,0.5202,0.5202
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.0379375,0.041492005,0.045046509,0.048601014,0.052155518,0.055710023,0.059264527,0.059264527
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.072246569,0.079015616,0.085784664,0.092553712,0.09932276,0.106091808,0.112860856,0.112860856
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,CHA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,REF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,MEA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,EUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,IND,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,SSA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,LAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,OAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,JPN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+remind,SSP2-Base,Business As Usual,CAZ,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
 image,SSP2-Base,Business As Usual,INDIA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,CHN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
 image,SSP2-Base,Business As Usual,RUS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0

@@ -9,9 +9,9 @@ in the Master thesis study of Johanna Boyce for:
 
 * ammonia. 
 
-It is meant to be used in `premise` in addition to a global IMAGE scenario, 
+It is meant to be used in `premise` in addition to a global IAM scenario, 
 to provide refined projections for the future supply of ammonia for 
-each IMAGE region. 
+each IAM region. 
 
 Note that projections regarding regional ammonia markets stop at 2050.
 Any `premise` database with a reference year beyond 2050 
@@ -49,11 +49,14 @@ IAM scenario compatibility
 
 The following coupling is done between IAM scenarios and the ammonia market scenarios (APS):
 
-| IAM scenario     | APS scenario           |
-|------------------|-------------------------|
-| IMAGE SSP2-Base  | Business As Usual       |
-| IMAGE SSP2-RCP26 | Sustainable development |
-| IMAGE SSP2-RCP19 | Sustainable development |
+| IAM scenario           | APS scenario            |
+|------------------------|-------------------------|
+| IMAGE SSP2-Base        | Business As Usual       |
+| IMAGE SSP2-RCP26       | Sustainable development |
+| IMAGE SSP2-RCP19       | Sustainable development |
+| REMIND SSP2-Base       | Business As Usual       |
+| REMIND SSP2-PkBudg1150 | Sustainable development |
+| REMIND SSP2-PkBudg500  | Sustainable development |
 
 What does this do?
 ------------------
@@ -70,7 +73,7 @@ The following markets are introduced:
 * `market for hydrogen, electrolysis (APS)`
 * `market for ammonia (APS)`
 
-`market for ammonia (APS)` is supplied by six ammonia production pathways:
+`market for ammonia (APS)` is supplied by seven ammonia production pathways:
 * MP (Methane Pyrolysis), called `ammonia production, hydrogen from methane pyrolysis`,
 * SMR (Steam Methane Reforming), called `ammonia production, steam reforming`,
 * SMRC (SMR with CCS), called `market for ammonia, via steam reforming w/ CCS`,
