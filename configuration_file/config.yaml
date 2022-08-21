@@ -1,215 +1,236 @@
 # Configuration file for custom scenarios for `premise`
-# Cobalt Perspective Scenario 2050
-# https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13258
+
+# Reference
+# Boyce, J. C. (2022). Ammonia decarbonisation pathways and their
+# effects on life cycle assessments: Integrating future ammonia scenarios
+# into background data for prospective LCAs [Master’s Thesis,
+# Leiden University and TU Delft].
+
+# We have added new ammonia production routes: MP (Methane Pyrolysis),
+# SMR (Steam Methane Reforming), SMRC (SMR with CCS),
+# ELE (electrolysis), OIL (Partial oxidation of oil), CG (coal gasification),
+# CGC (CG with CCS).
+# Two hydrogen technologies: AE (alkaline electrolysis) and PEM electrolysis
+# make a mini-market hydrogen, electrolysis.
+# These technologies will be made specific to each IAM region,
+# unless exceptions are specified.
+# Markets for ammonia will be created for each IAM region and
+# replace the old markets.
 
 ---
 
+# `production pathways` lists the different technologies
 production pathways:
-  copper:
+  # name given to a technology: this name is internal to premise
+  MP:
+    # variables to look for in the scenario data file to fetch production volumes
+    # values fetched from the scenario data file as production volumes are used to calculate
+    # the supply share if markets are to be built
     production volume:
-      variable: Production|Cobalt|From copper mining
-
+      # `variable` in `production volume` refers to the variable name in the scenario data file
+      variable: Production|Ammonia|Methane Pyrolysis
+    # dataset in the imported inventories that represents the technology
     ecoinvent alias:
-      name: cobalt metal production, from copper mining, via electrolysis, economic allocation
-      reference product: cobalt
-      exists in original database: True
+      # name of the original dataset
+      name: ammonia production, hydrogen from methane pyrolysis
+      # reference product of the original dataset
+      reference product: ammonia, anhydrous, liquid
+      # indicate whether the dataset exists in the original database
+      # or if it should be sourced from the inventories folder
+      exists in original database: False
+      # indicate whether a region-specific version of the dataset should be created
+      regionalize: True
 
+  SMR:
+    production volume:
+      variable: Production|Ammonia|Steam Reforming
+    ecoinvent alias:
+      name: ammonia production, steam reforming
+      reference product: ammonia, anhydrous, liquid
+      exists in original database: False
+      regionalize: True
+    replaces:
+      - name: ammonia production, steam reforming, liquid
+        reference product: ammonia, anhydrous, liquid
+
+  # the co-product CO2 (with 0% allocation) is created to
+  # remain consistent with ecoinvent's treatment of CO2 from SMR
+  # it has been given blank scenarios per region in the
+  # scenario data file to prevent an error.
+  SMRCO2:
+    production volume:
+      variable: Production|AmmoniaCO2|Steam Reforming
+    ecoinvent alias:
+      name: CO2 from ammonia production, steam reforming
+      reference product: carbon dioxide, in chemical industry
+      exists in original database: False
+      regionalize: True
+    replaces:
+      - name: ammonia production, steam reforming, liquid
+        reference product: carbon dioxide, in chemical industry
+
+  SMR_w_syngas_CCS:
+    production volume:
+      variable: Production|Ammonia|Steam Reforming w/ syngas w/ CCS
+    ecoinvent alias:
+      name: ammonia production, steam reforming w/ syngas CCS
+      reference product: ammonia, anhydrous, liquid
+      exists in original database: False
+      regionalize: True
+
+  SMR_w_syngas_and_fluegas_CCS:
+    production volume:
+      variable: Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS
+    ecoinvent alias:
+      name: ammonia production, steam reforming w/ syngas and flue gas CCS
+      reference product: ammonia, anhydrous, liquid
+      exists in original database: False
+      regionalize: True
+
+  SMR_w_CCS:
+    production volume:
+      variable: Production|Ammonia|Steam Reforming w/ CCS
+    ecoinvent alias:
+      name: market for ammonia, via steam reforming w/ CCS (APS)
+      reference product: ammonia, anhydrous, liquid
+      exists in original database: False
+      regionalize: False
+      new dataset: True
+
+  #adding PEM and AE separately to make a sub-market
+  # and allow for efficiency improvements to the
+  # electrolysis processes
+  AE:
+    production volume:
+      variable: Production|Hydrogen|Alkaline Electrolysis
+    ecoinvent alias:
+      name: hydrogen production, alkaline electrolysis
+      reference product: hydrogen, alkaline electrolysis
+      exists in original database: False
+      regionalize: True
     efficiency:
-      - variable: Efficiency|Copper|Energy
-        reference year: 2010
+      - variable: Efficiency|Hydrogen|Alkaline Electrolysis (electricity)
+        reference year: 2020
+        includes:
+          # efficiency gains will only apply to flows whose name
+          # contains `electricity`
+          technosphere:
+            - electricity
+
+  PEM:
+    production volume:
+      variable: Production|Hydrogen|PEM
+    ecoinvent alias:
+      name: hydrogen production, gaseous, 25 bar, from electrolysis
+      reference product: Hydrogen, gaseous, 25 bar
+      exists in original database: True
+      regionalize: True
+    efficiency:
+      - variable: Efficiency|Hydrogen|PEM (electricity)
+        reference year: 2020
         includes:
           technosphere:
             - electricity
 
-      - variable: Efficiency|Copper|Mining and production
-        reference year: 2010
-        includes:
-            technosphere:
-              - blasting
-              - conveyor belt
-              - steel, chromium steel 18/8, hot rolled
-              - mine infrastructure, open cast, non-ferrous metal
-              - ammonia, anhydrous, liquid
-            biosphere:
-              - Transformation, to mineral extraction site
-              - Occupation, mineral extraction site
-
-      - variable: Efficiency|Copper|Diesel
-        reference year: 2010
-        includes:
-            technosphere:
-              - diesel, burned
-
-      - variable: Efficiency|Copper|Tailings
-        reference year: 2010
-        includes:
-            technosphere:
-              - sulfidic tailings
- 
-  nickel_sulphide:
+  ELE:
     production volume:
-      variable: Production|Cobalt|From nickel sulphide mining
+      variable: Production|Ammonia|Electrolysis
     ecoinvent alias:
-      name: nickel mine operation, sulfidic ore
-      reference product: cobalt
+      name: ammonia production, hydrogen from electrolysis
+      reference product: ammonia, anhydrous, liquid
       exists in original database: False
+      regionalize: True
 
-    efficiency:
-      - variable: Efficiency|Nickel sulphide|Energy
-        reference year: 2010
-        includes:
-          technosphere:
-            - electricity
-
-      - variable: Efficiency|Nickel sulphide|Mining and production
-        reference year: 2010
-        includes:
-          technosphere:
-            - blasting
-            - conveyor belt
-            - mine infrastructure, open cast, non-ferrous metal
-            - ammonia, anhydrous, liquid
-            - sand
-
-      - variable: Efficiency|Nickel sulphide|Diesel
-        reference year: 2010
-        includes:
-          technosphere:
-            - diesel, burned
-
-      - variable: Efficiency|Nickel sulphide|Tailings
-        reference year: 2010
-        includes:
-          technosphere:
-            - sulfidic tailings
-
-  nickel_laterite 1:
+  OIL:
     production volume:
-      variable: Production|Cobalt|From nickel laterite mining
-
+      variable: Production|Ammonia|Oil
     ecoinvent alias:
-      name: cobalt production from sulphide matte
-      reference product: cobalt
+      name: ammonia production, partial oxidation of oil
+      reference product: ammonia, anhydrous, liquid
       exists in original database: False
+      regionalize: True
 
-    efficiency:
-      - variable: Efficiency|Nickel laterite|Mining and production
-        reference year: 2010
-        includes:
-          technosphere:
-            - ammonia, anhydrous, liquid
-
-  nickel_laterite 2:
+  CG:
     production volume:
-      variable: Production|Cobalt|From nickel laterite mining
-
+      variable: Production|Ammonia|Coal Gasification
     ecoinvent alias:
-      name: ferronickel production
-      reference product: sulphide matte
+      name: ammonia production, hydrogen from coal gasification
+      reference product: ammonia, anhydrous, liquid
       exists in original database: False
+      regionalize: True
+    replaces:
+      - name: ammonia production, partial oxidation, liquid
+        reference product: ammonia, anhydrous, liquid
 
-    efficiency:
-      - variable: Efficiency|Nickel laterite|Energy
-        reference year: 2010
-        includes:
-          technosphere:
-            - electricity
+  # the co-product CO2 (with 0% allocation) is created to remain
+  # consistent with ecoinvent's treatment of CO2 from ammonia from coal
+  # it has been given blank scenarios per region in the scenario data
+  # file to prevent an error
 
-      - variable: Efficiency|Nickel laterite|Heat 1
-        reference year: 2010
-        includes:
-          technosphere:
-            - heat, district or industrial, natural gas
-
-      - variable: Efficiency|Nickel laterite|Heat 2
-        reference year: 2010
-        includes:
-          technosphere:
-            - heat, district or industrial, other than natural gas
-
-      - variable: Efficiency|Nickel laterite|Mining and production
-        reference year: 2010
-        includes:
-          technosphere:
-            - mine infrastructure
-            - conveyor belt
-            - ammonia, anhydrous, liquid
-            - blasting
-          biosphere:
-            - Occupation, mineral extraction site
-            - Transformation, to mineral extraction site
-
-      - variable: Efficiency|Nickel laterite|Diesel
-        reference year: 2010
-        includes:
-          technosphere:
-            - diesel, burned
-
-      - variable: Efficiency|Nickel laterite|Tailings
-        reference year: 2010
-        includes:
-          technosphere:
-            - nickel smelter slag
-
-  cobalt:
+  CGCO2:
     production volume:
-      variable: Production|Cobalt|From cobalt mining
+      variable: Production|HydrogenCO2|Coal Gasification
     ecoinvent alias:
-      name: cobalt production
-      reference product: cobalt
-      exists in original database: True
+      name: CO2 from hydrogen production, coal gasification
+      reference product: carbon dioxide, in chemical industry
+      exists in original database: False
+      regionalize: True
+    replaces:
+      - name: ammonia production, partial oxidation, liquid
+        reference product: carbon dioxide, in chemical industry
 
-  recycling_pyro:
+  CGC:
     production volume:
-      variable: Production|Cobalt|From battery recycling (pyro)
+      variable: Production|Ammonia|Coal Gasification w/ CCS
     ecoinvent alias:
-      name: treatment of used Li-ion battery, pyrometallurgical treatment
-      reference product: cobalt
-      exists in original database: True
+      name: ammonia production, hydrogen from coal gasification w/ CCS
+      reference product: ammonia, anhydrous, liquid
+      exists in original database: False
+      regionalize: True
 
-  recycling_hydro:
-    production volume:
-      variable: Production|Cobalt|From battery recycling (hydro)
-    ecoinvent alias:
-      name: treatment of used Li-ion battery, hydrometallurgical treatment
-      reference product: cobalt
-      exists in original database: True
 
-  zinc:
-    production volume:
-      variable: Production|Cobalt|From zinc mining
-    ecoinvent alias:
-      name: primary zinc production from concentrate
-      reference product: cobalt
-      exists in original database: True
-
+# Creating the markets
 markets:
 
-  - name: market for cobalt (CP2050)
-    reference product: cobalt
+  - name: market for ammonia, via steam reforming w/ CCS (APS)
+    reference product: ammonia, anhydrous, liquid
     unit: kilogram
     includes:
-      - copper
-      - nickel_sulphide
-      - nickel_laterite 1
-      - cobalt
-      - recycling_pyro
-      - recycling_hydro
-      - zinc
+      - SMR_w_syngas_CCS
+      - SMR_w_syngas_and_fluegas_CCS
     except regions:
       - World
 
+    # sub-market for hydrogen from electrolysis... then this is an input to the ammonia from hydrogen
+    # from electrolysis activity
+    # can add other technologies (e.g. SOEC) here in the future
+  - name: market for hydrogen, electrolysis (APS)
+    reference product: hydrogen, electrolysis
+    unit: kilogram
+    includes:
+      - AE
+      - PEM
     replaces:
-      - name: market for cobalt
-        reference product: cobalt
-  
+      - name: market for hydrogen production, electrolysis
+        reference product: hydrogen, electrolysis
+    except regions:
+      - World
 
-
-  
-
-  
-  
-
-
-
-  
+    # name of the market dataset
+  - name: market for ammonia (APS)
+    reference product: ammonia, anhydrous, liquid
+    # unit of the market dataset
+    unit: kilogram
+    # names of datasets that should compose the market
+    includes:
+      - MP
+      - SMR
+      - SMR_w_CCS
+      - ELE
+      - OIL
+      - CG
+      - CGC
+    # 'market for ammonia` will replace the existing markets.
+    replaces:
+      - name: market for ammonia, anhydrous, liquid
+        reference product: ammonia, anhydrous, liquid

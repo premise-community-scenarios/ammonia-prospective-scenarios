@@ -1,43 +1,1171 @@
-﻿model,pathway,scenario,region,variables,unit,2010,2015,2020,2025,2030,2035,2040,2045,2050,2060,2070,2080,2090,2100
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Energy,%,1,0.971,0.944,0.918,0.892,0.867,0.841,0.816,0.791,0.791,0.791,0.791,0.791,0.791
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Mining and production,%,1,0.944,0.894,0.849,0.806,0.765,0.727,0.69,0.655,0.655,0.655,0.655,0.655,0.655
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Diesel,%,1,0.951,0.908,0.87,0.835,0.802,0.771,0.742,0.714,0.714,0.714,0.714,0.714,0.714
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Copper|Tailings,%,1,0.941,0.895,0.859,0.828,0.801,0.777,0.757,0.738,0.738,0.738,0.738,0.738,0.738
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel sulphide|Energy,%,1,0.994,0.987,0.979,0.97,0.96,0.948,0.934,0.918,0.918,0.918,0.918,0.918,0.918
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel sulphide|Mining and production,%,1,0.967,0.932,0.896,0.858,0.817,0.773,0.726,0.676,0.676,0.676,0.676,0.676,0.676
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel sulphide|Diesel,%,1,0.977,0.956,0.936,0.916,0.896,0.877,0.857,0.838,0.838,0.838,0.838,0.838,0.838
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel sulphide|Tailings,%,1,0.946,0.902,0.864,0.83,0.8,0.772,0.747,0.723,0.723,0.723,0.723,0.723,0.723
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel laterite|Energy,%,1,0.989,0.977,0.965,0.952,0.937,0.922,0.905,0.886,0.886,0.886,0.886,0.886,0.886
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel laterite|Heat 1,%,1,0.961,0.923,0.885,0.847,0.807,0.767,0.726,0.684,0.684,0.684,0.684,0.684,0.684
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel laterite|Heat 2,%,1,0.963,0.927,0.891,0.855,0.817,0.779,0.739,0.698,0.698,0.698,0.698,0.698,0.698
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel laterite|Mining and production,%,1,0.96,0.92,0.882,0.843,0.803,0.762,0.72,0.678,0.678,0.678,0.678,0.678,0.678
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel laterite|Diesel,%,1,0.954,0.912,0.872,0.833,0.795,0.757,0.72,0.684,0.684,0.684,0.684,0.684,0.684
-image,SSP2-Base,Business As Usual,GLO,Efficiency|Nickel laterite|Tailings,%,1,0.946,0.902,0.864,0.83,0.8,0.772,0.747,0.723,0.723,0.723,0.723,0.723,0.723
-image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From copper mining,%,0.281,0.592,0.641,0.508,0.386,0.348,0.379,0.395,0.383,0.383,0.383,0.383,0.383,0.383
-image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From nickel sulphide mining,%,0.057,0.07,0.064,0.051,0.041,0.036,0.038,0.039,0.037,0.037,0.037,0.037,0.037,0.037
-image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From nickel laterite mining,%,0.191,0.182,0.149,0.116,0.096,0.085,0.086,0.088,0.084,0.084,0.084,0.084,0.084,0.084
-image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From battery recycling (pyro),%,0.22,0.063,0.058,0.148,0.224,0.25,0.234,0.224,0.233,0.233,0.233,0.233,0.233,0.233
-image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From battery recycling (hydro),%,0.22,0.063,0.058,0.148,0.224,0.25,0.234,0.224,0.233,0.233,0.233,0.233,0.233,0.233
-image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From cobalt mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
-image,SSP2-Base,Business As Usual,GLO,Production|Cobalt|From zinc mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Energy,%,1,0.97,0.939,0.908,0.876,0.845,0.815,0.784,0.754,0.754,0.754,0.754,0.754,0.754
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Mining and production,%,1,0.942,0.886,0.831,0.78,0.732,0.688,0.646,0.606,0.606,0.606,0.606,0.606,0.606
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Diesel,%,1,0.949,0.901,0.856,0.814,0.776,0.74,0.707,0.676,0.676,0.676,0.676,0.676,0.676
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Copper|Tailings,%,1,0.939,0.888,0.846,0.81,0.781,0.756,0.734,0.714,0.714,0.714,0.714,0.714,0.714
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel sulphide|Energy,%,1,0.993,0.985,0.975,0.964,0.95,0.934,0.914,0.891,0.891,0.891,0.891,0.891,0.891
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel sulphide|Mining and production,%,1,0.965,0.925,0.88,0.832,0.779,0.724,0.665,0.603,0.603,0.603,0.603,0.603,0.603
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel sulphide|Diesel,%,1,0.976,0.952,0.927,0.903,0.88,0.856,0.834,0.811,0.811,0.811,0.811,0.811,0.811
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel sulphide|Tailings,%,1,0.944,0.894,0.849,0.81,0.776,0.746,0.718,0.694,0.694,0.694,0.694,0.694,0.694
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel laterite|Energy,%,1,0.988,0.975,0.959,0.943,0.924,0.904,0.881,0.856,0.856,0.856,0.856,0.856,0.856
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel laterite|Heat 1,%,1,0.959,0.915,0.869,0.822,0.773,0.725,0.675,0.624,0.624,0.624,0.624,0.624,0.624
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel laterite|Heat 2,%,1,0.961,0.92,0.876,0.831,0.784,0.737,0.689,0.639,0.639,0.639,0.639,0.639,0.639
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel laterite|Mining and production,%,1,0.958,0.913,0.865,0.817,0.768,0.718,0.668,0.617,0.617,0.617,0.617,0.617,0.617
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel laterite|Diesel,%,1,0.952,0.904,0.855,0.808,0.763,0.719,0.675,0.633,0.633,0.633,0.633,0.633,0.633
-image,SSP2-RCP26,Sustainable development,GLO,Efficiency|Nickel laterite|Tailings,%,1,0.944,0.894,0.849,0.81,0.776,0.746,0.718,0.694,0.694,0.694,0.694,0.694,0.694
-image,SSP2-RCP26,Sustainable development,GLO,Production|Cobalt|From copper mining,%,0.282,0.613,0.689,0.565,0.463,0.411,0.412,0.445,0.475,0.475,0.475,0.475,0.475,0.475
-image,SSP2-RCP26,Sustainable development,GLO,Production|Cobalt|From nickel sulphide mining,%,0.055,0.066,0.057,0.047,0.039,0.037,0.035,0.038,0.04,0.04,0.04,0.04,0.04,0.04
-image,SSP2-RCP26,Sustainable development,GLO,Production|Cobalt|From nickel laterite mining,%,0.186,0.165,0.118,0.093,0.079,0.076,0.071,0.074,0.078,0.078,0.078,0.078,0.078,0.078
-image,SSP2-RCP26,Sustainable development,GLO,Production|Cobalt|From battery recycling (pyro),%,0.223,0.063,0.053,0.132,0.194,0.223,0.226,0.207,0.189,0.189,0.189,0.189,0.189,0.189
-image,SSP2-RCP26,Sustainable development,GLO,Production|Cobalt|From battery recycling (hydro),%,0.223,0.063,0.053,0.132,0.194,0.223,0.226,0.207,0.189,0.189,0.189,0.189,0.189,0.189
-image,SSP2-RCP26,Sustainable development,GLO,Production|Cobalt|From cobalt mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
-image,SSP2-RCP26,Sustainable development,GLO,Production|Cobalt|From zinc mining,%,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
+﻿model,pathway,scenario,region,variables,unit,2020,2025,2030,2035,2040,2045,2050,2100
+image,SSP2-RCP19,Sustainable development,CHN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,INDIA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,CAN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,MEX,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,CEU,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,TUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,UKR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,WEU,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RUS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,STAN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,ME,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,EAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,NAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RSAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,SAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,WAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,BRA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RCAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RSAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,INDO,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,JAP,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,KOR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,OCE,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RSAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,SEAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,CHN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,INDIA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,CAN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,MEX,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,CEU,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,TUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,UKR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,WEU,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RUS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,STAN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,ME,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,EAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,NAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RSAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,SAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,WAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,BRA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RCAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RSAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,INDO,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,JAP,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,KOR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,OCE,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RSAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,SEAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,CHN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,INDIA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,CAN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,MEX,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,CEU,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,TUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,UKR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,WEU,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RUS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,STAN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,ME,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,EAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,NAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RSAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,SAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,WAF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,BRA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RCAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RSAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,INDO,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,JAP,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,KOR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,OCE,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RSAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,SEAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,CHN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,INDIA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,CAN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,MEX,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,CEU,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,TUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,UKR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,WEU,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RUS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,STAN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,ME,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,EAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,NAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RSAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,SAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,WAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,BRA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RCAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RSAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,INDO,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,JAP,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,KOR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,OCE,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,RSAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,SEAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,CHN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,INDIA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,CAN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,MEX,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,CEU,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,TUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,UKR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,WEU,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RUS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,STAN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,ME,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,EAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,NAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RSAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,SAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,WAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,BRA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RCAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RSAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,INDO,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,JAP,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,KOR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,OCE,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,RSAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP26,Sustainable development,SEAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,CHN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,INDIA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,CAN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,MEX,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,CEU,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,TUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,UKR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,WEU,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RUS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,STAN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,ME,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,EAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,NAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RSAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,SAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,WAF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,BRA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RCAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RSAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,INDO,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,JAP,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,KOR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,OCE,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,RSAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-Base,Business As Usual,SEAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Coal Gasification,Mt,46.1,44.2,38.1,31.5,25.3,19.3,14,14
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Coal Gasification,Mt,0.2,0.1,0.1,0.1,0.1,0,0,0
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Coal Gasification,Mt,0.7,0.6,0.4,0.3,0.2,0.1,0,0
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Coal Gasification,Mt,0.2,0.2,0.2,0.2,0.1,0.1,0,0
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Coal Gasification,Mt,46.1,50.1,54.1,56.9,59.6,61.4,63.1,63.1
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Coal Gasification,Mt,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Coal Gasification,Mt,0.7,0.7,0.7,0.6,0.6,0.5,0.5,0.5
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Coal Gasification,Mt,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Coal Gasification,Mt,46.1,50.5,54.8,59.1,63.4,67.8,72.1,72.1
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Coal Gasification,Mt,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Coal Gasification,Mt,0.7,0.7,0.8,0.9,0.9,1,1,1
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Coal Gasification,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Coal Gasification,Mt,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Coal Gasification,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0.7,1.3,1.8,2.2,2.5,2.6,2.6
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Coal Gasification w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Electrolysis,Mt,0,4,7.7,10.8,13.4,15,15.9,15.9
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Electrolysis,Mt,0,1.4,3.2,5.5,8.3,11.4,15.1,15.1
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Electrolysis,Mt,0,0,0,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.2,0.3,0.4,0.5,0.5
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0.1,0.1
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Electrolysis,Mt,0,0.8,1.5,2.3,3.1,3.9,4.6,4.6
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Electrolysis,Mt,0,0,0.1,0.1,0.2,0.2,0.3,0.3
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Electrolysis,Mt,0,0.3,0.6,0.9,1.3,1.6,1.9,1.9
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Electrolysis,Mt,0,1.2,2.4,3.6,4.7,5.9,7.1,7.1
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Electrolysis,Mt,0,0.8,1.5,2.3,3.1,3.9,4.6,4.6
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.4,0.5,0.6,0.7,0.7
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.4,0.5,0.7,1,1
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.7,0.7
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.7,0.7
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.7,0.7
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.7,0.7
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.7,0.7
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Electrolysis,Mt,0,0.1,0.3,0.5,0.7,1,1.3,1.3
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Electrolysis,Mt,0,0.1,0.3,0.5,0.7,1,1.3,1.3
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Electrolysis,Mt,0,0.1,0.3,0.5,0.7,1,1.3,1.3
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Electrolysis,Mt,0,0.3,0.6,1,1.6,2.1,2.8,2.8
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.5,0.5
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.5,0.5
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.5,0.5
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.5,0.5
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Electrolysis,Mt,0,0.1,0.1,0.3,0.4,0.5,0.7,0.7
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0.1,0.1
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Electrolysis,Mt,0,0,0.1,0.1,0.1,0.2,0.2,0.2
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Electrolysis,Mt,0,0,0.1,0.2,0.2,0.3,0.4,0.4
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Electrolysis,Mt,0,0,0,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Electrolysis,Mt,0,0.1,0.2,0.2,0.3,0.4,0.6,0.6
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Electrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Methane Pyrolysis,Mt,0,0.1,0.1,0.2,0.3,0.3,0.4,0.4
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Methane Pyrolysis,Mt,0,0.3,0.6,0.8,1.1,1.4,1.7,1.7
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0.1,0.1,0.2,0.2,0.2
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Methane Pyrolysis,Mt,0,0.1,0.2,0.3,0.4,0.5,0.6,0.6
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Methane Pyrolysis,Mt,0,0.3,0.6,1,1.5,2,2.6,2.6
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0.1,0.2,0.2,0.3,0.4,0.4
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Methane Pyrolysis,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Oil,Mt,0.5,0.5,0.4,0.3,0.2,0.1,0,0
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Oil,Mt,0.6,0.6,0.6,0.5,0.4,0.2,0,0
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Oil,Mt,0.3,0.3,0.2,0.2,0.1,0.1,0,0
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Oil,Mt,0.5,0.4,0.3,0.3,0.2,0.1,0,0
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0.1,0,0,0
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0.1,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0.1,0,0,0
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Oil,Mt,0.5,0.5,0.4,0.3,0.2,0.1,0,0
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Oil,Mt,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Oil,Mt,0.3,0.3,0.4,0.4,0.4,0.4,0.4,0.4
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Oil,Mt,0.5,0.5,0.6,0.6,0.6,0.6,0.6,0.6
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Oil,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Oil,Mt,0.5,0.6,0.6,0.7,0.7,0.8,0.8,0.8
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Oil,Mt,0.6,0.6,0.7,0.8,0.8,0.9,0.9,0.9
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Oil,Mt,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.5
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Oil,Mt,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Oil,Mt,0.5,0.6,0.6,0.6,0.7,0.7,0.8,0.8
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Oil,Mt,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Oil,Mt,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Oil,Mt,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Oil,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming,Mt,7,7.4,7.1,6.6,6.1,5.5,4.9,4.9
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming,Mt,14.2,15.7,17,17.8,18.3,18.2,17.7,17.7
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming,Mt,3.9,3.5,3.1,2.7,2.3,1.9,1.5,1.5
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming,Mt,15.7,14.1,12.5,10.9,9.3,7.7,6.2,6.2
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming,Mt,0.2,0.4,0.6,0.7,0.8,0.8,0.8,0.8
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming,Mt,6.3,5.5,4.7,3.9,3.1,2.3,1.5,1.5
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming,Mt,0.4,0.3,0.3,0.2,0.2,0.1,0.1,0.1
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming,Mt,2.5,2.2,1.9,1.6,1.2,0.9,0.6,0.6
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming,Mt,9.6,8.4,7.1,5.9,4.7,3.5,2.3,2.3
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming,Mt,18.5,17.6,16.8,15.9,15,14.2,13.3,13.3
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming,Mt,3.1,2.4,2.6,2.5,2.5,2.2,1.9,1.9
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming,Mt,16.7,17.4,17.9,17.7,17.1,15.8,14.2,14.2
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming,Mt,1.8,1.9,2,2,1.9,1.8,1.7,1.7
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming,Mt,1.8,1.9,2,2,1.9,1.8,1.7,1.7
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming,Mt,1.8,1.9,2,2,1.9,1.8,1.7,1.7
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming,Mt,1.8,1.9,2,2,1.9,1.8,1.7,1.7
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming,Mt,1.8,1.9,2,2,1.9,1.8,1.7,1.7
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming,Mt,2.3,2.6,2.8,3,3.1,3.1,3.1,3.1
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming,Mt,2.3,2.6,2.8,3,3.1,3.1,3.1,3.1
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming,Mt,2.3,2.6,2.8,3,3.1,3.1,3.1,3.1
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming,Mt,6.8,7.3,7.7,7.7,7.6,7.2,6.7,6.7
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming,Mt,3,2.2,2.3,2.1,1.9,1.5,1.2,1.2
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming,Mt,3,2.2,2.3,2.1,1.9,1.5,1.2,1.2
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming,Mt,3,2.2,2.3,2.1,1.9,1.5,1.2,1.2
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming,Mt,3,2.2,2.3,2.1,1.9,1.5,1.2,1.2
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming,Mt,1.7,1.8,1.9,1.9,1.9,1.8,1.6,1.6
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming,Mt,7,7.7,8.4,8.9,9.5,9.9,10.3,10.3
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming,Mt,14.2,15.5,16.7,17.6,18.5,19.1,19.6,19.6
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming,Mt,3.9,4.3,4.6,4.8,5.1,5.2,5.4,5.4
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming,Mt,15.7,17,18.4,19.4,20.4,21,21.6,21.6
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming,Mt,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming,Mt,6.3,6.8,7.3,7.6,7.9,8.1,8.3,8.3
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming,Mt,0.4,0.4,0.4,0.4,0.5,0.5,0.5,0.5
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming,Mt,2.5,2.7,2.9,3.1,3.2,3.3,3.4,3.4
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming,Mt,9.6,10.4,11.1,11.6,12.1,12.4,12.7,12.7
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming,Mt,18.5,20.1,21.7,22.8,23.9,24.6,25.3,25.3
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming,Mt,3.1,3.3,3.6,3.8,4,4.1,4.2,4.2
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming,Mt,16.7,18.1,19.5,20.5,21.5,22.1,22.8,22.8
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.2,2.3,2.4,2.5,2.5
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.2,2.3,2.4,2.5,2.5
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.2,2.3,2.4,2.5,2.5
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.2,2.3,2.4,2.5,2.5
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.2,2.3,2.4,2.5,2.5
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming,Mt,2.3,2.5,2.8,2.9,3.1,3.2,3.3,3.3
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming,Mt,2.3,2.5,2.8,2.9,3.1,3.2,3.3,3.3
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming,Mt,2.3,2.5,2.8,2.9,3.1,3.2,3.3,3.3
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming,Mt,6.8,7.4,8,8.4,8.8,9.1,9.4,9.4
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.7,3.9,4,4.1,4.1
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.7,3.9,4,4.1,4.1
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.7,3.9,4,4.1,4.1
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.7,3.9,4,4.1,4.1
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming,Mt,1.7,1.8,2,2.1,2.2,2.2,2.3,2.3
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming,Mt,7,7.6,8.3,8.9,9.6,10.2,10.9,10.9
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming,Mt,14.2,15.5,16.9,18.2,19.5,20.9,22.2,22.2
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming,Mt,3.9,4.3,4.6,5,5.4,5.7,6.1,6.1
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming,Mt,15.7,17.1,18.6,20.1,21.5,23,24.4,24.4
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming,Mt,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming,Mt,6.3,6.9,7.4,8,8.6,9.2,9.8,9.8
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming,Mt,0.4,0.4,0.4,0.5,0.5,0.5,0.6,0.6
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming,Mt,2.5,2.8,3,3.2,3.5,3.7,4,4
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming,Mt,9.6,10.5,11.4,12.3,13.2,14.1,15,15
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming,Mt,18.5,20.2,22,23.7,25.4,27.2,28.9,28.9
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming,Mt,3.1,3.3,3.6,3.9,4.2,4.5,4.8,4.8
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming,Mt,16.7,18.2,19.8,21.3,22.9,24.5,26,26
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.3,2.5,2.6,2.8,2.8
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.3,2.5,2.6,2.8,2.8
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.3,2.5,2.6,2.8,2.8
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.3,2.5,2.6,2.8,2.8
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming,Mt,1.8,2,2.1,2.3,2.5,2.6,2.8,2.8
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming,Mt,2.3,2.5,2.8,3,3.2,3.4,3.6,3.6
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming,Mt,2.3,2.5,2.8,3,3.2,3.4,3.6,3.6
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming,Mt,2.3,2.5,2.8,3,3.2,3.4,3.6,3.6
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming,Mt,6.8,7.4,8.1,8.7,9.3,10,10.6,10.6
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.8,4.1,4.4,4.6,4.6
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.8,4.1,4.4,4.6,4.6
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.8,4.1,4.4,4.6,4.6
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming,Mt,3,3.2,3.5,3.8,4.1,4.4,4.6,4.6
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming,Mt,1.7,1.8,2,2.1,2.3,2.4,2.6,2.6
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ syngas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS,Mt,1,1,1,1,1,1,1,1
+image,SSP2-RCP19,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.1,0.4,0.7,1.1,1.4,1.7,2.1,2.1
+image,SSP2-RCP19,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.3,1.7,3,4.3,5.7,7,8.3,8.3
+image,SSP2-RCP19,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0.1,0.3,0.5,0.8,1.1,1.1
+image,SSP2-RCP19,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.1,0.2,0.3,0.3,0.4,0.4
+image,SSP2-RCP19,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0.1,0.1,0.1,0.1,0.2,0.2
+image,SSP2-RCP19,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.2,0.3,0.4,0.5,0.6,0.6
+image,SSP2-RCP19,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,1.4,3.3,5.5,8.2,11.1,14.5,14.5
+image,SSP2-RCP19,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.9,1.2,1.2
+image,SSP2-RCP19,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.9,1.2,1.2
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.9,1.2,1.2
+image,SSP2-RCP19,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.9,1.2,1.2
+image,SSP2-RCP19,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.9,1.2,1.2
+image,SSP2-RCP19,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.2,0.3,0.5,0.7,0.9,0.9
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.2,0.3,0.5,0.7,0.9,0.9
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.2,0.3,0.5,0.7,0.9,0.9
+image,SSP2-RCP19,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.5,1.1,1.8,2.7,3.7,4.9,4.9
+image,SSP2-RCP19,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.8,0.9,0.9
+image,SSP2-RCP19,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.8,0.9,0.9
+image,SSP2-RCP19,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.8,0.9,0.9
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.5,0.7,0.8,0.9,0.9
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0.1,0.3,0.4,0.7,0.9,1.2,1.2
+image,SSP2-RCP26,Sustainable development,CHN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CAN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-RCP26,Sustainable development,USA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.3,0.4,0.4,0.4,0.4,0.4,0.5,0.5
+image,SSP2-RCP26,Sustainable development,MEX,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,TUR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WEU,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RUS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,NAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,BRA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDO,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,JAP,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,KOR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,OCE,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDIA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CAN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+image,SSP2-Base,Business As Usual,USA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.5
+image,SSP2-Base,Business As Usual,MEX,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,TUR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WEU,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RUS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,NAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WAF,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,BRA,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RCAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAM,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDO,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,JAP,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,KOR,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,OCE,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SEAS,Production|Ammonia|Steam Reforming w/ CCS,Mt,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDIA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RUS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,TUR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WEU,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,NAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,BRA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RCAM,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAM,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CAN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,USA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,MEX,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDO,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,JAP,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,KOR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,OCE,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SEAS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDIA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CHN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RUS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,TUR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WEU,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,NAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,BRA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RCAM,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAM,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CAN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,USA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,MEX,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDO,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,JAP,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,KOR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,OCE,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SEAS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDIA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CHN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RUS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,STAN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CEU,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,TUR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,UKR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WEU,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,EAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,NAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WAF,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,BRA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RCAM,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAM,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CAN,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,USA,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,MEX,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,ME,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDO,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,JAP,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,KOR,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,OCE,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SEAS,Production|AmmoniaCO2|Steam Reforming,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CHN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,CAN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,USA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,MEX,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,CEU,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,TUR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,UKR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,WEU,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,RUS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,STAN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,ME,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,EAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,NAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,SAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,WAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,BRA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,INDO,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,JAP,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,KOR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,OCE,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,CHN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,CAN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,USA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,MEX,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,CEU,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,TUR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,UKR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,WEU,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,RUS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,STAN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,ME,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,EAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,NAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,SAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,WAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,BRA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,INDO,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,JAP,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,KOR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,OCE,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,CHN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,INDIA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,CAN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,USA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,MEX,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,CEU,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,TUR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,UKR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,WEU,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,RUS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,STAN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,ME,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,EAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,NAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,RSAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,SAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,WAF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,BRA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,RCAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,RSAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,INDO,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,JAP,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,KOR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,OCE,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,RSAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-Base,Business As Usual,SEAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+image,SSP2-RCP19,Sustainable development,CHN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,INDIA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,CAN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,USA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,MEX,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,CEU,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,TUR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,UKR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,WEU,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,RUS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,STAN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,ME,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,EAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,NAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,RSAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,SAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,WAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,BRA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,RCAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,RSAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,INDO,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,JAP,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,KOR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,OCE,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,RSAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP19,Sustainable development,SEAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,CHN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,INDIA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,CAN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,USA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,MEX,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,CEU,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,TUR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,UKR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,WEU,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,RUS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,STAN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,ME,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,EAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,NAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,RSAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,SAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,WAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,BRA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,RCAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,RSAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,INDO,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,JAP,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,KOR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,OCE,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,RSAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-RCP26,Sustainable development,SEAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,CHN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,INDIA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,CAN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,USA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,MEX,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,CEU,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,TUR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,UKR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,WEU,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,RUS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,STAN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,ME,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,EAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,NAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,RSAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,SAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,WAF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,BRA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,RCAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,RSAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,INDO,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,JAP,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,KOR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,OCE,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,RSAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,SEAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+image,SSP2-Base,Business As Usual,INDIA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CHN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RUS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,STAN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CEU,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,TUR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,UKR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WEU,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,EAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,NAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,WAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,BRA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RCAM,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAM,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,CAN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,USA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,MEX,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,ME,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,INDO,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,JAP,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,KOR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,OCE,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,RSAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-Base,Business As Usual,SEAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDIA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CHN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RUS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,STAN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CEU,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,TUR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,UKR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WEU,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,EAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,NAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,WAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,BRA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RCAM,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAM,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,CAN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,USA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,MEX,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,ME,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,INDO,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,JAP,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,KOR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,OCE,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,RSAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP26,Sustainable development,SEAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDIA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CHN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RUS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,STAN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CEU,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,TUR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,UKR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WEU,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,EAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,NAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,WAF,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,BRA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RCAM,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAM,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,CAN,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,USA,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,MEX,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,ME,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,INDO,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,JAP,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,KOR,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,OCE,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,RSAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+image,SSP2-RCP19,Sustainable development,SEAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0

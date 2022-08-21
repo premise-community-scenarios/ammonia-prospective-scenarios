@@ -1,34 +1,39 @@
-# cobalt-perspective-2050 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/premise-community-scenarios/cobalt-perspective-2050) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6984300.svg)](https://doi.org/10.5281/zenodo.6984300)
+# ammonia-prospective-scenarios ![GitHub release (latest by date)](https://img.shields.io/github/v/release/premise-community-scenarios/ammonia-prospective-scenarios) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6984300.svg)](https://doi.org/10.5281/zenodo.6984300)
 
 
 Description
 -----------
 
-This is a repository containing a scenario that implements the projections of the 
-van der Meide et al., 2022 study for:
+This is a repository containing scenarios that implement the projections developed
+in the Master thesis study of Johanna Boyce for:
 
-* cobalt. 
+* ammonia. 
 
-It is meant to be used in `premise` in addition to a global IAM scenario, to provide 
-refined projections for the future supply of cobalt on the global market.
+It is meant to be used in `premise` in addition to a global IMAGE scenario, 
+to provide refined projections for the future supply of ammonia for 
+each IMAGE region.
 
 This data package contains all the files necessary for `premise` to implement
-this scenario and create market-specific composition for cobalt (including supply from recycling channels).
+this scenario and create market- and region specific technology supply shares
+for ammonia.
 
 Sourced from publication
 ------------------------
 
-van der Meide, M., Harpprecht, C., Northey, S., Yang, Y., & Steubing, B. (2022). Effects of the energy transition on environmental impacts of cobalt supply: A prospective life cycle assessment study on future supply of cobalt. Journal of Industrial Ecology, 1– 15. https://doi.org/10.1111/jiec.13258
+Boyce, J. C. (2022). Ammonia decarbonisation pathways and their effects 
+on life cycle assessments: Integrating future ammonia scenarios 
+into background data for prospective LCAs. Master’s Thesis, 
+Leiden University and TU Delft.
 
 Data validation 
 ---------------
 
-[![goodtables.io](https://goodtables.io//badge/github/premise-community-scenarios/cobalt-perspective-2050.svg)](https://goodtables.io//github/premise-community-scenarios/cobalt-perspective-2050)
+[![goodtables.io](https://goodtables.io//badge/github/premise-community-scenarios/ammonia-prospective-scenarios.svg)](https://goodtables.io//github/premise-community-scenarios/ammonia-prospective-scenarios-2050)
 
 Test 
 ----
 
-![example workflow](https://github.com/premise-community-scenarios/cobalt-perspective-2050/actions/workflows/main.yml/badge.svg?branch=main)
+![example workflow](https://github.com/premise-community-scenarios/ammonia-prospective-scenarios/actions/workflows/main.yml/badge.svg?branch=main)
 
 Ecoinvent database compatibility
 --------------------------------
@@ -38,34 +43,53 @@ ecoinvent 3.8 cut-off
 IAM scenario compatibility
 ---------------------------
 
-The following coupling is done between IAM and the cobalt scenarios:
+The following coupling is done between IAM and the ammonia market scenarios (APS):
 
-| IAM scenario           | EP2050+ scenario        |
-|------------------------| ------------------------|
-| IMAGE SSP2-Base        | Business As Usual       |
-| IMAGE SSP2-RCP26       | Sustainable development |
+| IAM scenario     | APS scenario           |
+|------------------|-------------------------|
+| IMAGE SSP2-Base  | Business As Usual       |
+| IMAGE SSP2-RCP26 | Sustainable development |
+| IMAGE SSP2-RCP19 | Sustainable development |
 
 What does this do?
 ------------------
 
-This external scenario update the ecoinvent global market for cobalt, according
-to the projections described in van der Meide et al., 2022.
+This external scenario update the ecoinvent market for ammonia, according
+to the projections described in the Master thesis study of J. Boyce, 2022.
 
-Cobalt
-******
+Ammonia
+*******
+
+The following markets are introduced:
+
+* `market for ammonia, via steam reforming w/ CCS (APS)`
+* `market for hydrogen, electrolysis (APS)`
+* `market for ammonia (APS)`
+
+`market for ammonia (APS)` is supplied by six ammonia production pathways:
+* MP (Methane Pyrolysis), called `ammonia production, hydrogen from methane pyrolysis`,
+* SMR (Steam Methane Reforming), called `ammonia production, steam reforming`,
+* SMRC (SMR with CCS), called `market for ammonia, via steam reforming w/ CCS`,
+* ELE (electrolysis), called `ammonia production, hydrogen from electrolysis`,
+* OIL (Partial oxidation of oil), called `ammonia production, hydrogen from partial oxidation of oil`,
+* CG (coal gasification), called `ammonia production, hydrogen from coal gasification`,
+* CGC (CG with CCS), called `ammonia production, hydrogen from coal gasification w/ CCS`.
+
+This market re-links to activities that consume ammonia throughout the database.
+
+Hydrogen
+********
 
 The following market is introduced:
 
-* `market for cobalt (CP2050)` (GLO)
+* `market for hydrogen, electrolysis (APS)`
 
-It is supplied by six cobalt production pathways:
-* cobalt from cobalt mining
-* cobalt as a co-product from copper mining (ore extraction, processing and electrowinning)
-* cobalt as a co-product from nickel mining
-* cobalt as a co-product from zinc mining
-* cobalt recovered from discarded batteries (hydro- and pyro-metallurgical processes)
+It is supplied by two hydrogen production pathways:
+* AE (alkaline electrolysis), and 
+* PEM electrolysis
 
-This market is relinked to activities that consume metallic cobalt throughout the database, if any.
+This market re-links to ammonia-producing activities 
+that consume hydrogen throughout the database.
 
 
 Flow diagram
@@ -82,8 +106,8 @@ How to use it?
     from datapackage import Package
     
     
-    fp = r"https://raw.githubusercontent.com/premise-community-scenarios/cobalt-perspective-2050/main/datapackage.json"
-    cobalt2050 = Package(fp)
+    fp = r"https://raw.githubusercontent.com/premise-community-scenarios/ammonia-prospective-scenarios/main/datapackage.json"
+    ammonia = Package(fp)
     
     bw.projects.set_current("your_bw_project")
     
@@ -96,7 +120,7 @@ How to use it?
             source_version="3.8",
             key='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
             external_scenarios=[
-                cobalt2050, # <-- list datapackages here
+                ammonia, # <-- list datapackages here
             ] 
         )
 ```

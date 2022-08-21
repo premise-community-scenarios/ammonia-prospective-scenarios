@@ -3,24 +3,21 @@
 
 cff-version: 1.2.0
 title: >-
-  Effects of the energy transition on environmental
-  impacts of cobalt supply: A prospective life cycle
-  assessment study on future supply of cobalt.
+  Boyce, J. C. (2022). Ammonia decarbonisation pathways
+  and their effects on life cycle assessments: Integrating
+  future ammonia scenarios into background data for prospective
+  LCAs. [Master’s Thesis, Leiden University and TU Delft]
 message: Please cite this dataset using these metadata.
 type: dataset
 authors:
-  - given-names: Marc
-    family-names: van der Meide
-    email: m.t.van.der.meide@cml.leidenuniv.nl
+  - given-names: Johanna
+    family-names: Boyce
+    email: j.c.boyce@umail.leidenuniv.nl
     affiliation: >-
       Faculty of Science - Institute of environmental
       sciences (CML)
-identifiers:
-  - type: doi
-    value: 10.1111/jiec.13258
-    description: Publication DOI
 repository-code: >-
-  https://github.com/premise-community-scenarios/cobalt-perspective-2050
+  https://github.com/premise-community-scenarios/ammonia-prospective-scenarios
 abstract: >-
-  Scenario to integrate the future global supply of
-  cobalt into the premise Python package
+  Scenario to integrate the future supply of
+  ammonia into the premise Python package
