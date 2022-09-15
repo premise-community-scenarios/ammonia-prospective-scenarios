@@ -1466,3 +1466,69 @@ image,SSP2-RCP19,Sustainable development,KOR,Production|HydrogenCO2|Coal Gasific
 image,SSP2-RCP19,Sustainable development,OCE,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,RSAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
 image,SSP2-RCP19,Sustainable development,SEAS,Production|HydrogenCO2|Coal Gasification,%,0,0,0,0,0,0,0,0
+remind,SSP2-Base,Business As Usual,CHA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,REF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,MEA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,EUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,IND,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,SSA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,LAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,OAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,JPN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CAZ,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CHA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,REF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,MEA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,EUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,IND,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,SSA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,LAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,OAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,JPN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CAZ,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,REF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,IND,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,REF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,IND,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CHA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,REF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,MEA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,EUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,IND,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,SSA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,LAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,OAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,JPN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CHA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,REF,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,USA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,MEA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,EUR,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,IND,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,SSA,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,LAM,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,OAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,JPN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
