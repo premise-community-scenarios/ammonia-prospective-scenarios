@@ -234,11 +234,8 @@ average ammonia transport,1,new_activities,GLO,unit,,technosphere,average ammoni
 Activity,"ammonia production, partial oxidation of oil",,,,,,,,,,,
 activity type,ordinary transforming activity,,,,,,,,,,,
 comment,"1.5 kg coal required for 1 kg NH3 (Al-Qahtani et al., 2021), modified to have a heavy fuel oil feedstock of 88.2 wt% carbon (Reed & Kuhre, 1980) so 1.5/0.882 = 1.7 kg heavy fuel oil.
-
 CO2 emissions for 1 kg NH3 are 2-2.6 kg for POX of heavy oil. 700 mg/Nm3 NOx = 0.00224 kg/kg NH3. 0.3 ppmv H2S = 1.46e-6 kg/kg NH3. 100 ppmv methanol = 4.58e-4 kg/kg NH3. 30 ppmv CO = 1.2e-4 kg/kg NH3. (Fertilizers Europe, 2000).
-
 Chemical factory, nitrogen, NH3 catalyst, tap water, spent catalyst, water biosphere flows, from Carlo d'Angelo et al. (2021) Haber-Bosch of biomass gasification hydrogen.
-
 Liquid oxygen  (23.1% of 4 kg air (Fertilizers Europe, 2000)) from cryogenic air separation is added as an input, which could result in an over-estimation of electricity, since compression to liquid form might not be needed if the air separation is done on-site. ",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
 production amount,1,,,,,,,,,,,
@@ -388,7 +385,6 @@ comment,"Von Wald et al., 2020
 hydrogen: $1.11/kg * 1 kg = $1.11
 carbon black: $0.15/kg * 3 kg = $0.45
 1.11+0.45 = $1.56
-
 Allocation factor hydrogen: 1.11/1.56 = 0.71
 Allocation factor carbon: 0.45/1.56 = 0.29",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
@@ -427,7 +423,6 @@ comment,"Von Wald et al., 2020
 hydrogen: $1.11/kg * 1 kg = $1.11
 electricity: $0.04/kWh * 3.18 kWh = $0.13
 1.11+0.13 = $1.24
-
 Allocation factor hydrogen: 1.11/1.24 = 0.90
 Allocation factor electricity: 0.13/1.24 = 0.10",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
@@ -502,7 +497,6 @@ comment,"Von Wald et al., 2020
 hydrogen: $1.11/kg * 1 kg = $1.11
 electricity: $0.04/kWh * 3.18 kWh = $0.13
 1.11+0.13 = $1.24
-
 Allocation factor hydrogen: 1.11/1.24 = 0.90
 Allocation factor electricity: 0.13/1.24 = 0.10",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
@@ -519,7 +513,6 @@ comment,"Von Wald et al., 2020
 hydrogen: $1.11/kg * 1 kg = $1.11
 carbon black: $0.15/kg * 3 kg = $0.45
 1.11+0.45 = $1.56
-
 Allocation factor hydrogen: 1.11/1.56 = 0.71
 Allocation factor carbon: 0.45/1.56 = 0.29",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
@@ -577,7 +570,6 @@ market for zirconium oxide,0.00011,cutoff38,GLO,kilogram,technosphere,zirconium 
 ,,,,,,,,,,,,
 Activity,"market for hydrogen production, electrolysis",,,,,,,,,,,
 comment,"IEA Global Hydrogen Review 2021: Alkaline electrolysers dominate with 61% of installed capacity in 2020, while PEMs have a 31% share. The remaining capacity is of unspecified electrolyser technology and SOECs (installed capacity of 0.8 MW).
-
 Since SOECs are still in the research and development phase (Ausfelder et al., 2022), this market will include only the two commercialised technologies -> assuming a dominance of alkaline with 61+8=69% and 31% PEM.
 This division of electrolysis technologies is static but can be improved if better forecasts exist for the electrolyser technology mix to 2050. ",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
@@ -615,7 +607,6 @@ comment,"Expansion of premise generated inventory: hydrogen production, gaseous,
 New emissions (CH4, N2O) and updated values (coal, water, CO2) based on Al-Qahtani et al., 2021.
 Made waste values (hard coal ash, waste gypsum) negative.
 Originally in megajoule. LHV: 120 MJ/kg.
-
 Multifunctional activity that produces 1 kg hydrogen (H2) and 3.18 kWh electricity (Al-Qahtani et al., 2021).
 Economic allocation based on $1.11/kg H2 and $0.04/kWh electricity (Von Wald et al., 2020)",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
@@ -643,7 +634,6 @@ market for hard coal,8.51,cutoff38,CN,kilogram,,technosphere,hard coal,,,,,
 Activity,multifunctional methane pyrolysis,,,,,,,,,,,
 comment,"Hydrogen production by methane pyrolysis. Al-Qahtani et al. 2021
 electricity from Machhammer et al., 2016
-
 Multifunctional activity that produces 1 kg hydrogen (H2) and 3 kg carbon black (C).
 Economic allocation based on $1.11/kg H2 and $0.15/kg C (Von Wald et al., 2020)",,,,,,,,,,,
 location,GLO,,,,,,,,,,,
