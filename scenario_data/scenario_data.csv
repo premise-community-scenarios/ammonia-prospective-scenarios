@@ -1532,3 +1532,69 @@ remind,SSP2-PkBudg500,Sustainable development,LAM,Efficiency|Hydrogen|Alkaline E
 remind,SSP2-PkBudg500,Sustainable development,OAS,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
 remind,SSP2-PkBudg500,Sustainable development,JPN,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
 remind,SSP2-PkBudg500,Sustainable development,CAZ,Efficiency|Hydrogen|Alkaline Electrolysis (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CHA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,REF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,MEA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,EUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,IND,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,SSA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,LAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,OAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,JPN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CAZ,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CHA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,REF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,MEA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,EUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,IND,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,SSA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,LAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,OAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,JPN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CAZ,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,REF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,IND,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,REF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,IND,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CHA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,REF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,MEA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,EUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,IND,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,SSA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,LAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,OAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,JPN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CHA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,REF,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,USA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,MEA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,EUR,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,IND,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,SSA,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,LAM,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,OAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,JPN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
