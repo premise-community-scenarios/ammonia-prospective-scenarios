@@ -1532,3 +1532,75 @@ remind,SSP2-PkBudg500,Sustainable development,LAM,Efficiency|Hydrogen|PEM (elect
 remind,SSP2-PkBudg500,Sustainable development,OAS,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
 remind,SSP2-PkBudg500,Sustainable development,JPN,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
 remind,SSP2-PkBudg500,Sustainable development,CAZ,Efficiency|Hydrogen|PEM (electricity),%,66,67.5,69,71,73,74.5,76,76
+remind,SSP2-Base,Business As Usual,CAZ,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,CHA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,REF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,USA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,MEA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,EUR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,IND,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,SSA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,LAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,OAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,JPN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,CAZ,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Hydrogen|Alkaline Electrolysis,%,69,69,69,69,69,69,69,69
+remind,SSP2-Base,Business As Usual,CAZ,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,CHA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,REF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,USA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,MEA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,EUR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,IND,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,SSA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,LAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,OAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,JPN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-Base,Business As Usual,CAZ,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,CHA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,REF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,USA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,MEA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,EUR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,IND,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,SSA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,LAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,OAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,JPN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg1150,Sustainable development,CAZ,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,CHA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,REF,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,USA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,MEA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,EUR,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,IND,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,SSA,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,LAM,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,OAS,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,JPN,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
+remind,SSP2-PkBudg500,Sustainable development,CAZ,Production|Hydrogen|PEM,%,31,31,31,31,31,31,31,31
