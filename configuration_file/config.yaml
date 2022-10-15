@@ -44,11 +44,13 @@ production pathways:
   SMR:
     production volume:
       variable: Production|Ammonia|Steam Reforming
+
     ecoinvent alias:
       name: ammonia production, steam reforming
       reference product: ammonia, anhydrous, liquid
       exists in original database: False
       regionalize: True
+
     replaces:
       - name: ammonia production, steam reforming, liquid
         reference product: ammonia, anhydrous, liquid
@@ -201,7 +203,8 @@ markets:
     except regions:
       - World
 
-    # sub-market for hydrogen from electrolysis... then this is an input to the ammonia from hydrogen
+    # sub-market for hydrogen from electrolysis...
+    # then this is an input to the ammonia from hydrogen
     # from electrolysis activity
     # can add other technologies (e.g. SOEC) here in the future
   - name: market for hydrogen, electrolysis (APS)
@@ -230,7 +233,7 @@ markets:
       - OIL
       - CG
       - CGC
-    # 'market for ammonia` will replace the existing markets.
+    # `market for ammonia` will replace the existing markets.
     replaces:
       - name: market for ammonia, anhydrous, liquid
         reference product: ammonia, anhydrous, liquid
