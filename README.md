@@ -21,6 +21,12 @@ This data package contains all the files necessary for `premise` to implement
 this scenario and create market- and region specific technology supply shares
 for ammonia.
 
+Note
+----
+
+Cannot be used together with ``update_fuels()``. 
+If you run ``update_all()``, you need to indicate ``"exclude": ["update_fuels"]``.
+
 Sourced from publication
 ------------------------
 
