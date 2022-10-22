@@ -720,7 +720,7 @@ syngas and flue gas CO2 transport and injection in a geological reservoir,1000,n
 ,,,,,,,,,,,,
 Activity,"hydrogen production, gaseous, 25 bar, from electrolysis, for ammonia production",,,,,,,,,,,
 production amount,1,,,,,,,,,,,
-comment,"1 kg H2 produced using a PEM electrolyzer. Source: Barei§, K., de la Rua, C., Mšckl, M., Hamacher, T., 2019. Life cycle assessment of hydrogen from proton exchange membrane water electrolysis in future energy systems 237, 862-872. 10.1016/j.apenergy.2019.01.001",,,,,,,,,,,
+comment,"1 kg H2 produced using a PEM electrolyzer. Source: Bareiss, K., de la Rua, C., Moeckl, M., Hamacher, T., 2019. Life cycle assessment of hydrogen from proton exchange membrane water electrolysis in future energy systems 237, 862-872. 10.1016/j.apenergy.2019.01.001",,,,,,,,,,,
 reference product,"Hydrogen, gaseous, 25 bar",,,,,,,,,,,
 location,RER,,,,,,,,,,,
 unit,kilogram,,,,,,,,,,,
