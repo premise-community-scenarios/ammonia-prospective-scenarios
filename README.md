@@ -137,5 +137,8 @@ How to use it?
                 ammonia, # <-- list datapackages here
             ] 
         )
+        
+   ndb.update_external_scenario()
+   
 ```
 
