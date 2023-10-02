@@ -124,7 +124,7 @@ production pathways:
       variable: Production|Hydrogen|PEM
     ecoinvent alias:
       name: hydrogen production, gaseous, 25 bar, from electrolysis, for ammonia production
-      reference product: Hydrogen, gaseous, 25 bar
+      reference product: hydrogen, gaseous, 25 bar
       exists in original database: True
       regionalize: True
     efficiency:
