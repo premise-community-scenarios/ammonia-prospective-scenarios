@@ -4,7 +4,7 @@
     "title": "Ammonia decarbonisation pathways and their effects on life cycle assessments: Integrating future ammonia scenarios into background data for prospective LCAs",
     "description": "Implementation of the scenarios on future ammonia supply from the Master thesis of J. Boyce, 2022.",
     "source":"Boyce, J. C. (2022). Ammonia decarbonisation pathways and their effects on life cycle assessments: Integrating future ammonia scenarios into background data for prospective LCAs [Master’s Thesis, Leiden University and TU Delft].",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "contributors":[
         {
         "title": "Johanna C. Boyce",
@@ -12,10 +12,10 @@
     }
     ],
     "dependencies": {
-        "premise": ">=1.3.0"
+        "premise": ">=1.7.3"
     },
     "ecoinvent": {
-        "version": "3.8",
+        "version": "3.9",
         "system model": "cut-off"
     },
     "scenarios": {
@@ -140,7 +140,7 @@
             }
         },
         {
-            "path": "inventories/lci-ammonia.csv",
+            "path": "inventories/lci-ammonia_39.csv",
             "profile": "data-resource",
             "name": "inventories",
             "format": "csv",
