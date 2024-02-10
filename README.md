@@ -27,8 +27,7 @@ for ammonia.
 Note
 ----
 
-Cannot be used together with ``update_fuels()``. 
-If you run ``update_all()``, you need to indicate ``"exclude": ["update_fuels"]``.
+Cannot be used together with ``update("fuels")``. 
 
 Sourced from publication
 ------------------------
