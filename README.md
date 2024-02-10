@@ -7,8 +7,8 @@ Description
 This is a repository containing scenarios that implement the projections developed
 for the following publication:
 
-A Prospective Life Cycle Assessment of Global Ammonia Decarbonisation Scenarios
-Johanna Boyce, Romain Sacchi, Earl Goetheer, Bernhard Steubing
+**A Prospective Life Cycle Assessment of Global Ammonia Decarbonisation Scenarios**
+*Johanna Boyce, Romain Sacchi, Earl Goetheer, Bernhard Steubing*
 In review.
  
 
