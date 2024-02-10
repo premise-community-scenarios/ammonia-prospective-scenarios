@@ -5,9 +5,12 @@ Description
 -----------
 
 This is a repository containing scenarios that implement the projections developed
-in the Master thesis study of Johanna Boyce for:
+for the following publication:
 
-* ammonia. 
+A Prospective Life Cycle Assessment of Global Ammonia Decarbonisation Scenarios
+Johanna Boyce, Romain Sacchi, Earl Goetheer, Bernhard Steubing
+In review.
+ 
 
 It is meant to be used in `premise` in addition to a global IAM scenario, 
 to provide refined projections for the future supply of ammonia for 
@@ -48,7 +51,7 @@ Test
 Ecoinvent database compatibility
 --------------------------------
 
-ecoinvent 3.8 cut-off
+ecoinvent 3.9 cut-off
 
 IAM scenario compatibility
 ---------------------------
