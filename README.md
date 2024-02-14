@@ -11,7 +11,6 @@ for the following publication:
 *Johanna Boyce, Romain Sacchi, Earl Goetheer, Bernhard Steubing*\
 In review.
  
-
 It is meant to be used in `premise` in addition to a global IAM scenario, 
 to provide refined projections for the future supply of ammonia for 
 each IAM region. 
@@ -32,10 +31,15 @@ Cannot be used together with ``update("fuels")``.
 Sourced from publication
 ------------------------
 
-Boyce, J. C. (2022). Ammonia decarbonisation pathways and their effects 
-on life cycle assessments: Integrating future ammonia scenarios 
-into background data for prospective LCAs. Master’s Thesis, 
-Leiden University and TU Delft.
+If you use this data package in your research, please cite the following publication:
+**A Prospective Life Cycle Assessment of Global Ammonia Decarbonisation Scenarios**\
+*Johanna Boyce, Romain Sacchi, Earl Goetheer, Bernhard Steubing*\
+In review.
+
+Results
+-------
+Unitary and absolute results per technology and region
+are available in the `results` folder.
 
 Data validation 
 ---------------
