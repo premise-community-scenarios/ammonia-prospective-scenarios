@@ -5,10 +5,12 @@ Description
 -----------
 
 This is a repository containing scenarios that implement the projections developed
-in the Master thesis study of Johanna Boyce for:
+for the following publication:
 
-* ammonia. 
-
+**A Prospective Life Cycle Assessment of Global Ammonia Decarbonisation Scenarios**\
+*Johanna Boyce, Romain Sacchi, Earl Goetheer, Bernhard Steubing*\
+In review.
+ 
 It is meant to be used in `premise` in addition to a global IAM scenario, 
 to provide refined projections for the future supply of ammonia for 
 each IAM region. 
@@ -24,16 +26,20 @@ for ammonia.
 Note
 ----
 
-Cannot be used together with ``update_fuels()``. 
-If you run ``update_all()``, you need to indicate ``"exclude": ["update_fuels"]``.
+Cannot be used together with ``update("fuels")``. 
 
 Sourced from publication
 ------------------------
 
-Boyce, J. C. (2022). Ammonia decarbonisation pathways and their effects 
-on life cycle assessments: Integrating future ammonia scenarios 
-into background data for prospective LCAs. Master’s Thesis, 
-Leiden University and TU Delft.
+If you use this data package in your research, please cite the following publication:
+**A Prospective Life Cycle Assessment of Global Ammonia Decarbonisation Scenarios**\
+*Johanna Boyce, Romain Sacchi, Earl Goetheer, Bernhard Steubing*\
+In review.
+
+Results
+-------
+Unitary and absolute results per technology and region
+are available in the `results` folder.
 
 Data validation 
 ---------------
@@ -48,7 +54,7 @@ Test
 Ecoinvent database compatibility
 --------------------------------
 
-ecoinvent 3.8 cut-off
+ecoinvent 3.9 cut-off
 
 IAM scenario compatibility
 ---------------------------
