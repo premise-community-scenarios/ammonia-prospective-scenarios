@@ -37,7 +37,7 @@ production pathways:
       reference product: ammonia, anhydrous, liquid
       # indicate whether the dataset exists in the original database
       # or if it should be sourced from the inventories folder
-      exists in original database: False
+      exists in original database: True
       # indicate whether a region-specific version of the dataset should be created
       regionalize: True
 
@@ -48,7 +48,7 @@ production pathways:
     ecoinvent alias:
       name: ammonia production, steam reforming
       reference product: ammonia, anhydrous, liquid
-      exists in original database: False
+      exists in original database: True
       regionalize: True
 
     replaces:
@@ -140,7 +140,7 @@ production pathways:
     ecoinvent alias:
       name: ammonia production, hydrogen from electrolysis
       reference product: ammonia, anhydrous, liquid
-      exists in original database: False
+      exists in original database: True
       regionalize: True
 
   OIL:
@@ -149,7 +149,7 @@ production pathways:
     ecoinvent alias:
       name: ammonia production, partial oxidation of oil
       reference product: ammonia, anhydrous, liquid
-      exists in original database: False
+      exists in original database: True
       regionalize: True
 
   CG:
@@ -158,7 +158,7 @@ production pathways:
     ecoinvent alias:
       name: ammonia production, hydrogen from coal gasification
       reference product: ammonia, anhydrous, liquid
-      exists in original database: False
+      exists in original database: True
       regionalize: True
     replaces:
       - name: ammonia production, partial oxidation, liquid

@@ -4,7 +4,7 @@
     "title": "Ammonia decarbonisation pathways and their effects on life cycle assessments: Integrating future ammonia scenarios into background data for prospective LCAs",
     "description": "Implementation of the scenarios on future ammonia supply from the Master thesis of J. Boyce, 2022.",
     "source":"Boyce, J. C. (2022). Ammonia decarbonisation pathways and their effects on life cycle assessments: Integrating future ammonia scenarios into background data for prospective LCAs [Master’s Thesis, Leiden University and TU Delft].",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "contributors":[
         {
         "title": "Johanna C. Boyce",
@@ -12,42 +12,18 @@
     }
     ],
     "dependencies": {
-        "premise": ">=1.7.3"
+        "premise": ">=2.1.1"
     },
     "ecoinvent": {
-        "version": "3.9",
+        "version": "3.10",
         "system model": "cut-off"
     },
-    "scenarios": {
-        "Business As Usual": [
-            {
-                "model": "image",
-                "pathway": "SSP2-Base"
-            },
-            {
-                "model": "remind",
-                "pathway": "SSP2-Base"
-            }
-        ],
-        "Sustainable development": [
-            {
-                "model": "image",
-                "pathway": "SSP2-RCP26"
-            },
-            {
-                "model": "image",
-                "pathway": "SSP2-RCP19"
-            },
-            {
-                "model": "remind",
-                "pathway": "SSP2-PkBudg1150"
-            },
-            {
-                "model": "remind",
-                "pathway": "SSP2-PkBudg500"
-            }
-        ]
-    },
+    "scenarios": [
+        "Business As Usual - image",
+        "Sustainable development - image",
+        "Business As Usual - remind",
+        "Sustainable development - remind"
+    ],
     "licenses": [{
     "id": "CC0-1.0",
     "title": "CC0 1.0",
@@ -63,16 +39,6 @@
             "encoding": "utf-8-sig",
             "schema": {
                 "fields": [
-                    {
-                        "name": "model",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "pathway",
-                        "type": "string",
-                        "format": "default"
-                    },
                     {
                         "name": "scenario",
                         "type": "string",
@@ -140,7 +106,7 @@
             }
         },
         {
-            "path": "inventories/lci-ammonia_39.csv",
+            "path": "inventories/lci-ammonia_310.csv",
             "profile": "data-resource",
             "name": "inventories",
             "format": "csv",
