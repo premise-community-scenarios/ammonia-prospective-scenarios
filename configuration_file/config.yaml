@@ -55,38 +55,22 @@ production pathways:
       - name: ammonia production, steam reforming, liquid
         product: ammonia, anhydrous, liquid
 
-  # the co-product CO2 (with 0% allocation) is created to
-  # remain consistent with ecoinvent's treatment of CO2 from SMR
-  # it has been given blank scenarios per region in the
-  # scenario data file to prevent an error.
-  SMRCO2:
-    production volume:
-      variable: Production|AmmoniaCO2|Steam Reforming
-    ecoinvent alias:
-      name: CO2 from ammonia production, steam reforming
-      reference product: carbon dioxide, in chemical industry
-      exists in original database: False
-      regionalize: True
-    replaces:
-      - name: ammonia production, steam reforming, liquid
-        product: carbon dioxide, in chemical industry
-
   SMR_w_syngas_CCS:
     production volume:
       variable: Production|Ammonia|Steam Reforming w/ syngas w/ CCS
     ecoinvent alias:
-      name: ammonia production, steam reforming w/ syngas CCS
+      name: ammonia production, steam reforming with syngas CCS
       reference product: ammonia, anhydrous, liquid
-      exists in original database: False
+      exists in original database: True
       regionalize: True
 
   SMR_w_syngas_and_fluegas_CCS:
     production volume:
       variable: Production|Ammonia|Steam Reforming w/ syngas and flue gas w/ CCS
     ecoinvent alias:
-      name: ammonia production, steam reforming w/ syngas and flue gas CCS
+      name: ammonia production, steam reforming with syngas and flue gas CCS
       reference product: ammonia, anhydrous, liquid
-      exists in original database: False
+      exists in original database: True
       regionalize: True
 
   SMR_w_CCS:
@@ -106,9 +90,9 @@ production pathways:
     production volume:
       variable: Production|Hydrogen|Alkaline Electrolysis
     ecoinvent alias:
-      name: hydrogen production, alkaline electrolysis
-      reference product: hydrogen, alkaline electrolysis
-      exists in original database: False
+      name: hydrogen production, gaseous, 20 bar, from AEC electrolysis, from grid electricity
+      reference product: hydrogen, gaseous, 20 bar
+      exists in original database: True
       regionalize: True
     efficiency:
       - variable: Efficiency|Hydrogen|Alkaline Electrolysis (electricity)
@@ -123,10 +107,10 @@ production pathways:
     production volume:
       variable: Production|Hydrogen|PEM
     ecoinvent alias:
-      name: hydrogen production, gaseous, 25 bar, from electrolysis, for ammonia production
-      reference product: hydrogen, gaseous, 25 bar
+      name: hydrogen production, gaseous, 30 bar, from PEM electrolysis, from grid electricity
+      reference product: hydrogen, gaseous, 30 bar
       exists in original database: True
-      regionalize: True
+      regionalize: False
     efficiency:
       - variable: Efficiency|Hydrogen|PEM (electricity)
         reference year: 2020
@@ -164,30 +148,13 @@ production pathways:
       - name: ammonia production, partial oxidation, liquid
         product: ammonia, anhydrous, liquid
 
-  # the co-product CO2 (with 0% allocation) is created to remain
-  # consistent with ecoinvent's treatment of CO2 from ammonia from coal
-  # it has been given blank scenarios per region in the scenario data
-  # file to prevent an error
-
-  CGCO2:
-    production volume:
-      variable: Production|HydrogenCO2|Coal Gasification
-    ecoinvent alias:
-      name: CO2 from hydrogen production, coal gasification
-      reference product: carbon dioxide, in chemical industry
-      exists in original database: False
-      regionalize: True
-    replaces:
-      - name: ammonia production, partial oxidation, liquid
-        product: carbon dioxide, in chemical industry
-
   CGC:
     production volume:
       variable: Production|Ammonia|Coal Gasification w/ CCS
     ecoinvent alias:
-      name: ammonia production, hydrogen from coal gasification w/ CCS
+      name: ammonia production, hydrogen from coal gasification with CCS
       reference product: ammonia, anhydrous, liquid
-      exists in original database: False
+      exists in original database: True
       regionalize: True
 
 
