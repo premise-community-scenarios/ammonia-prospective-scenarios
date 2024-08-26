@@ -132,19 +132,16 @@ How to use it?
     bw.projects.set_current("your_bw_project")
     
     ndb = NewDatabase(
-            scenarios = [
-                {"model":"image", "pathway":"SSP2-Base", "year":2050,},
-                {"model":"image", "pathway":"SSP2-RCP26", "year":2030,},
-            ],        
-            source_db="ecoinvent 3.8 cutoff",
-            source_version="3.8",
-            key='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-            external_scenarios=[
-                ammonia, # <-- list datapackages here
-            ] 
-        )
+        scenarios = [
+            {"model":"image", "pathway":"SSP2-Base", "year":2050, "external scenarios": [{"scenario": "Business as usual", "data": ammonia}]},
+            {"model":"image", "pathway":"SSP2-RCP26", "year":2030, "external scenarios": [{"scenario": "Sustainable development", "data": ammonia}]},
+        ],        
+        source_db="ecoinvent 3.10 cutoff",
+        source_version="3.10",
+        key='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    )
         
-   ndb.update_external_scenario()
+   ndb.update("external") # or ndb.update() if you want to update the database with the IAM data plus the external scenario
    
 ```
 
