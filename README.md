@@ -133,8 +133,8 @@ How to use it?
     
     ndb = NewDatabase(
         scenarios = [
-            {"model":"image", "pathway":"SSP2-Base", "year":2050, "external scenarios": [{"scenario": "Business as usual", "data": ammonia}]},
-            {"model":"image", "pathway":"SSP2-RCP26", "year":2030, "external scenarios": [{"scenario": "Sustainable development", "data": ammonia}]},
+            {"model":"image", "pathway":"SSP2-Base", "year":2050, "external scenarios": [{"scenario": "Business As Usual - image", "data": ammonia}]},
+            {"model":"image", "pathway":"SSP2-RCP26", "year":2030, "external scenarios": [{"scenario": "Sustainable development - image", "data": ammonia}]},
         ],        
         source_db="ecoinvent 3.10 cutoff",
         source_version="3.10",
